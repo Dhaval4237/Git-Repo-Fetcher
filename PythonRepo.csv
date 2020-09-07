@@ -1,0 +1,901 @@
+name,description,html_url,watchers_count,stargazers_count,forks_count
+system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer,106031,106031,19032
+public-apis,A collective list of free APIs for use in software and web development.,https://github.com/public-apis/public-apis,95423,95423,11495
+awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",https://github.com/vinta/awesome-python,86342,86342,16967
+Python,All Algorithms implemented in Python,https://github.com/TheAlgorithms/Python,84240,84240,24826
+youtube-dl,Command-line program to download videos from YouTube.com and other video sites,https://github.com/ytdl-org/youtube-dl,70465,70465,12325
+models,Models and examples built with TensorFlow,https://github.com/tensorflow/models,65967,65967,42144
+thefuck,Magnificent app which corrects your previous console command.,https://github.com/nvbn/thefuck,55324,55324,2740
+flask,The Python micro framework for building web applications.,https://github.com/pallets/flask,51914,51914,13734
+django,The Web framework for perfectionists with deadlines.,https://github.com/django/django,51804,51804,22409
+keras,Deep Learning for humans,https://github.com/keras-team/keras,49627,49627,18560
+httpie,"As easy as /aitch-tee-tee-pie/ ð¥§ Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp",https://github.com/httpie/httpie,47988,47988,3083
+awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software.",https://github.com/josephmisiti/awesome-machine-learning,46373,46373,11648
+ansible,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",https://github.com/ansible/ansible,44635,44635,19559
+requests,"A simple, yet elegant HTTP library.",https://github.com/psf/requests,43449,43449,7879
+scikit-learn,scikit-learn: machine learning in Python,https://github.com/scikit-learn/scikit-learn,42133,42133,20312
+scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",https://github.com/scrapy/scrapy,38203,38203,8778
+big-list-of-naughty-strings,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.,https://github.com/minimaxir/big-list-of-naughty-strings,37926,37926,1683
+face_recognition,The world's simplest facial recognition api for Python and the command line,https://github.com/ageitgey/face_recognition,36094,36094,10106
+core,:house_with_garden: Open source home automation that puts local control and privacy first,https://github.com/home-assistant/core,35299,35299,11362
+you-get,:arrow_double_down: Dumb downloader that scrapes the web,https://github.com/soimort/you-get,34852,34852,6982
+cpython,The Python programming language,https://github.com/python/cpython,33367,33367,15969
+HelloGitHub,:octocat: Find pearls on open-source seashore åäº« GitHub ä¸æè¶£ãå¥é¨çº§çå¼æºé¡¹ç®,https://github.com/521xueweihan/HelloGitHub,33337,33337,4977
+transformers,ð¤Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.,https://github.com/huggingface/transformers,33313,33313,7970
+shadowsocks,,https://github.com/shadowsocks/shadowsocks,32766,32766,19702
+faceswap,Deepfakes Software For All,https://github.com/deepfakes/faceswap,32221,32221,10087
+XX-Net,A proxy tool to bypass GFW.,https://github.com/XX-net/XX-Net,30290,30290,7876
+incubator-superset,Apache Superset is a Data Visualization and Data Exploration Platform,https://github.com/apache/incubator-superset,29936,29936,6196
+interview_internal_reference,2020å¹´ææ°æ»ç»ï¼é¿éï¼è¾è®¯ï¼ç¾åº¦ï¼ç¾å¢ï¼å¤´æ¡ç­ææ¯é¢è¯é¢ç®ï¼ä»¥åç­æ¡ï¼ä¸å®¶åºé¢äººåææ±æ»ã,https://github.com/0voice/interview_internal_reference,28755,28755,7892
+12306,12306æºè½å·ç¥¨ï¼è®¢ç¥¨,https://github.com/testerSunshine/12306,28635,28635,9075
+CppCoreGuidelines,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",https://github.com/isocpp/CppCoreGuidelines,28407,28407,3784
+Deep-Learning-Papers-Reading-Roadmap,Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap,28274,28274,6266
+certbot,Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.,https://github.com/certbot/certbot,27142,27142,2960
+AiLearning,AiLearning: æºå¨å­¦ä¹  - MachineLearning - MLãæ·±åº¦å­¦ä¹  - DeepLearning - DLãèªç¶è¯­è¨å¤ç NLP,https://github.com/apachecn/AiLearning,26716,26716,9168
+pandas,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",https://github.com/pandas-dev/pandas,26399,26399,10815
+localstack,ð»  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!,https://github.com/localstack/localstack,26231,26231,2001
+sentry,"Sentry is cross-platform application monitoring, with a focus on error reporting.",https://github.com/getsentry/sentry,25963,25963,2926
+python-patterns,A collection of design patterns/idioms in Python,https://github.com/faif/python-patterns,25756,25756,5417
+manim,Animation engine for explanatory math videos,https://github.com/3b1b/manim,25136,25136,3215
+bert,TensorFlow code and pre-trained models for BERT,https://github.com/google-research/bert,24727,24727,6966
+jieba,ç»å·´ä¸­æåè¯,https://github.com/fxsjy/jieba,24021,24021,5881
+funNLP,"ä¸­è±æææè¯ãè¯­è¨æ£æµãä¸­å¤ææº/çµè¯å½å±å°/è¿è¥åæ¥è¯¢ãåå­æ¨æ­æ§å«ãææºå·æ½åãèº«ä»½è¯æ½åãé®ç®±æ½åãä¸­æ¥æäººååºãä¸­æç¼©ååºãæå­è¯å¸ãè¯æ±ææå¼ãåç¨è¯ãåå¨è¯è¡¨ãæ´æè¯è¡¨ãç¹ç®ä½è½¬æ¢ãè±ææ¨¡æä¸­æåé³ãæ±ªå³°æ­è¯çæå¨ãèä¸åç§°è¯åºãåä¹è¯åºãåä¹è¯åºãå¦å®è¯åºãæ±½è½¦åçè¯åºãæ±½è½¦é¶ä»¶è¯åºãè¿ç»­è±æåå²ãåç§ä¸­æè¯åéãå¬å¸åå­å¤§å¨ãå¤è¯è¯åºãITè¯åºãè´¢ç»è¯åºãæè¯­è¯åºãå°åè¯åºãåå²åäººè¯åºãè¯è¯è¯åºãå»å­¦è¯åºãé¥®é£è¯åºãæ³å¾è¯åºãæ±½è½¦è¯åºãå¨ç©è¯åºãä¸­æèå¤©è¯­æãä¸­æè°£è¨æ°æ®ãç¾åº¦ä¸­æé®ç­æ°æ®éãå¥å­ç¸ä¼¼åº¦å¹éç®æ³éåãbertèµæºãææ¬çæ&æè¦ç¸å³å·¥å·ãcocoNLPä¿¡æ¯æ½åå·¥å·ãå½åçµè¯å·ç æ­£åå¹éãæ¸åå¤§å­¦XLORE:ä¸­è±æè·¨è¯­è¨ç¾ç§ç¥è¯å¾è°±ãæ¸åå¤§å­¦äººå·¥æºè½ææ¯ç³»åæ¥åãèªç¶è¯­è¨çæãNLUå¤ªé¾äºç³»åãèªå¨å¯¹èæ°æ®åæºå¨äººãç¨æ·åé»åååè¡¨ãç½ªåæ³å¡åè¯ååç±»æ¨¡åãå¾®ä¿¡å¬ä¼å·è¯­æãcs224næ·±åº¦å­¦ä¹ èªç¶è¯­è¨å¤çè¯¾ç¨ãä¸­ææåæ±å­è¯å«ãä¸­æèªç¶è¯­è¨å¤ç è¯­æ/æ°æ®éãåéå½åç¥å¨ãåè¯è¯­æåº+ä»£ç ãä»»å¡åå¯¹è¯è±ææ°æ®éãASR è¯­é³æ°æ®é + åºäºæ·±åº¦å­¦ä¹ çä¸­æè¯­é³è¯å«ç³»ç»ãç¬å£°æ£æµå¨ãMicrosoftå¤è¯­è¨æ°å­/åä½/å¦æ¥ææ¶é´è¯å«åãä¸­åæ°åå­å¸æ°æ®åºåapi(åæ¬å¸¸ç¨æ­åè¯­ãæè¯­ãè¯è¯­åæ±å­)ãææ¡£å¾è°±èªå¨çæãSpaCy ä¸­ææ¨¡åãCommon Voiceè¯­é³è¯å«æ°æ®éæ°çãç¥ç»ç½ç»å³ç³»æ½åãåºäºbertçå½åå®ä½è¯å«ãå³é®è¯(Keyphrase)æ½ååpkeãåºäºå»çé¢åç¥è¯å¾è°±çé®ç­ç³»ç»ãåºäºä¾å­å¥æ³ä¸è¯­ä¹è§è²æ æ³¨çäºä»¶ä¸åç»æ½åãä¾å­å¥æ³åæ4ä¸å¥é«è´¨éæ æ³¨æ°æ®ãcnocrï¼ç¨æ¥åä¸­æOCRçPython3åãä¸­æäººç©å³ç³»ç¥è¯å¾è°±é¡¹ç®ãä¸­ænlpç«èµé¡¹ç®åä»£ç æ±æ»ãä¸­æå­ç¬¦æ°æ®ãspeech-aligner: ä»âäººå£°è¯­é³âåå¶âè¯­è¨ææ¬âäº§çé³ç´ çº§å«æ¶é´å¯¹é½æ æ³¨çå·¥å·ãAmpliGraph: ç¥è¯å¾è°±è¡¨ç¤ºå­¦ä¹ (Python)åºï¼ç¥è¯å¾è°±æ¦å¿µé¾æ¥é¢æµãScattertext ææ¬å¯è§å(python)ãè¯­è¨/ç¥è¯è¡¨ç¤ºå·¥å·ï¼BERT & ERNIEãä¸­æå¯¹æ¯è±æèªç¶è¯­è¨å¤çNLPçåºå«ç»¼è¿°ãSynonymsä¸­æè¿ä¹è¯å·¥å·åãHarvestTexté¢åèªéåºææ¬ææå·¥å·ï¼æ°è¯åç°-ææåæ-å®ä½é¾æ¥ç­ï¼ãword2wordï¼(Python)æ¹ä¾¿æç¨çå¤è¯­è¨è¯-è¯å¯¹éï¼62ç§è¯­è¨/3,564ä¸ªå¤è¯­è¨å¯¹ãè¯­é³è¯å«è¯­æçæå·¥å·ï¼ä»å·æé³é¢/å­å¹çå¨çº¿è§é¢åå»ºèªå¨è¯­é³è¯å«(ASR)è¯­æåºãæå»ºå»çå®ä½è¯å«çæ¨¡åï¼åå«è¯å¸åè¯­ææ æ³¨ï¼ãåææ¡£éçç£çå³é®è¯æ½åãKashgariä¸­ä½¿ç¨gpt-2è¯­è¨æ¨¡åãå¼æºçéèæèµæ°æ®æåå·¥å·ãææ¬èªå¨æè¦åºTextTeaser: ä»æ¯æè±æãäººæ°æ¥æ¥è¯­æå¤çå·¥å·éãä¸äºå³äºèªç¶è¯­è¨çåºæ¬æ¨¡åãåºäº14Wæ­æ²ç¥è¯åºçé®ç­å°è¯--åè½åæ¬æ­è¯æ¥é¾andå·²ç¥æ­è¯æ¾æ­æ²ä»¥åæ­æ²æ­ææ­è¯ä¸è§å³ç³»çé®ç­ãåºäºSiamese bilstmæ¨¡åçç¸ä¼¼å¥å­å¤å®æ¨¡åå¹¶æä¾è®­ç»æ°æ®éåæµè¯æ°æ®éãç¨Transformerç¼è§£ç æ¨¡åå®ç°çæ ¹æ®Hacker Newsæç« æ é¢èªå¨çæè¯è®ºãç¨BERTè¿è¡åºåæ è®°åææ¬åç±»çæ¨¡æ¿ä»£ç ãLitBankï¼NLPæ°æ®éââæ¯æèªç¶è¯­è¨å¤çåè®¡ç®äººæå­¦ç§ä»»å¡ç100é¨å¸¦æ è®°è±æå°è¯´è¯­æãç¾åº¦å¼æºçåºåä¿¡æ¯æ½åç³»ç»ãèåæ°é»æ°æ®éãFacebook: LAMAè¯­è¨æ¨¡ååæï¼æä¾Transformer-XL/BERT/ELMo/GPTé¢è®­ç»è¯­è¨æ¨¡åçç»ä¸è®¿é®æ¥å£ãCommonsenseQAï¼é¢åå¸¸è¯çè±æQAææãä¸­æç¥è¯å¾è°±èµæãæ°æ®åå·¥å·ãåå¤§å¬å¸åé¨éå¤§çåäº«çææ¯ææ¡£ PDF æè PPTãèªç¶è¯­è¨çæSQLè¯­å¥ï¼è±æï¼ãä¸­æNLPæ°æ®å¢å¼ºï¼EDAï¼å·¥å·ãè±æNLPæ°æ®å¢å¼ºå·¥å· ãåºäºå»è¯ç¥è¯å¾è°±çæºè½é®ç­ç³»ç»ãäº¬ä¸ååç¥è¯å¾è°±ãåºäºmongodbå­å¨çåäºé¢åç¥è¯å¾è°±é®ç­é¡¹ç®ãåºäºè¿çç£çä¸­æå³ç³»æ½åãè¯­é³ææåæãä¸­æULMFiT-ææåæ-ææ¬åç±»-è¯­æåæ¨¡åãä¸ä¸ªæç§åé¢ç¨åºãä¸çåå½å¤§è§æ¨¡äººååºãä¸ä¸ªå©ç¨æè¶£ä¸­æè¯­æåº qingyun è®­ç»åºæ¥çä¸­æèå¤©æºå¨äººãä¸­æèå¤©æºå¨äººseqGANãçå¸åºéè¡æ¿åºåæ°æ®å¸¦æ¼é³æ æ³¨ãæè²è¡ä¸æ°é»è¯­æåºåå«èªå¨ææåè½ãå¼æ¾äºå¯¹è¯æºå¨äºº-ç¥è¯å¾è°±-è¯­ä¹çè§£-èªç¶è¯­è¨å¤çå·¥å·åæ°æ®ãä¸­æç¥è¯å¾è°±ï¼åºäºç¾åº¦ç¾ç§ä¸­æé¡µé¢-æ½åä¸åç»ä¿¡æ¯-æå»ºä¸­æç¥è¯å¾è°±ãmasr: ä¸­æè¯­é³è¯å«-æä¾é¢è®­ç»æ¨¡å-é«è¯å«çãPythoné³é¢æ°æ®å¢å¹¿åºãä¸­æå¨è¯è¦çBERTåä¸¤ä»½éè¯»çè§£æ°æ®ãConvLabï¼å¼æºå¤åç«¯å°ç«¯å¯¹è¯ç³»ç»å¹³å°ãä¸­æèªç¶è¯­è¨å¤çæ°æ®éãåºäºææ°çæ¬rasaæ­å»ºçå¯¹è¯ç³»ç»ãåºäºTensorFlowåBERTçç®¡éå¼å®ä½åå³ç³»æ½åãä¸ä¸ªå°åçè¯å¸ç¥è¯å¾è°±/ç¥è¯åºãå¤çææNLPæ¯èµçTOPæ¹æ¡ãOpenCLaPï¼å¤é¢åå¼æºä¸­æé¢è®­ç»è¯­è¨æ¨¡åä»åºãUERï¼åºäºä¸åè¯­æ+ç¼ç å¨+ç®æ ä»»å¡çä¸­æé¢è®­ç»æ¨¡åä»åºãä¸­æèªç¶è¯­è¨å¤çåéåéãåºäºéè-å¸æ³é¢å(å¼æé²èæ§è´¨)çèå¤©æºå¨äººãg2pCï¼åºäºä¸ä¸æçæ±è¯­è¯»é³èªå¨æ è®°æ¨¡åãZincbase ç¥è¯å¾è°±æå»ºå·¥å·åãè¯æ­è´¨éè¯ä»·/ç»ç²åº¦ææè¯æ­è¯­æåºãå¿«éè½¬åãä¸­ææ°å­ãåãé¿æä¼¯æ°å­ããç¾åº¦ç¥éé®ç­è¯­æåºãåºäºç¥è¯å¾è°±çé®ç­ç³»ç»ãjieba_fast å éççjiebaãæ­£åè¡¨è¾¾å¼æç¨ãä¸­æéè¯»çè§£æ°æ®éãåºäºBERTç­ææ°è¯­è¨æ¨¡åçæ½åå¼æè¦æåãPythonå©ç¨æ·±åº¦å­¦ä¹ è¿è¡ææ¬æè¦çç»¼åæåãç¥è¯å¾è°±æ·±åº¦å­¦ä¹ ç¸å³èµææ´çãç»´åºå¤§è§æ¨¡å¹³è¡ææ¬è¯­æãStanfordNLP 0.2.0ï¼çº¯Pythonçèªç¶è¯­è¨å¤çåãNeuralNLP-NeuralClassifierï¼è¾è®¯å¼æºæ·±åº¦å­¦ä¹ ææ¬åç±»å·¥å·ãç«¯å°ç«¯çå°é­åå¯¹è¯ç³»ç»ãä¸­æå½åå®ä½è¯å«ï¼NeuroNER vs. BertNERãæ°é»äºä»¶çº¿ç´¢æ½åã2019å¹´ç¾åº¦çä¸åç»æ½åæ¯èµï¼âç§å­¦ç©ºé´éâæºç ãåºäºä¾å­å¥æ³çå¼æ¾åææ¬ç¥è¯ä¸åç»æ½ååç¥è¯åºæå»ºãä¸­æçGPT2è®­ç»ä»£ç ãML-NLP - æºå¨å­¦ä¹ (Machine Learning)NLPé¢è¯ä¸­å¸¸èå°çç¥è¯ç¹åä»£ç å®ç°ãnlp4han:ä¸­æèªç¶è¯­è¨å¤çå·¥å·é(æ­å¥/åè¯/è¯æ§æ æ³¨/ç»å/å¥æ³åæ/è¯­ä¹åæ/NER/Nåè¯­æ³/HMM/ä»£è¯æ¶è§£/ææåæ/æ¼åæ£æ¥ãXLMï¼Facebookçè·¨è¯­è¨é¢è®­ç»è¯­è¨æ¨¡åãç¨åºäºBERTçå¾®è°åç¹å¾æåæ¹æ³æ¥è¿è¡ç¥è¯å¾è°±ç¾åº¦ç¾ç§äººç©è¯æ¡å±æ§æ½åãä¸­æèªç¶è¯­è¨å¤çç¸å³çå¼æ¾ä»»å¡-æ°æ®é-å½åæä½³ç»æãCoupletAI - åºäºCNN+Bi-LSTM+Attention çèªå¨å¯¹å¯¹èç³»ç»ãæ½è±¡ç¥è¯å¾è°±ãMiningZhiDaoQACorpus - 580ä¸ç¾åº¦ç¥éé®ç­æ°æ®ææé¡¹ç®ãbrat rapid annotation tool: åºåæ æ³¨å·¥å·ãå¤§è§æ¨¡ä¸­æç¥è¯å¾è°±æ°æ®ï¼1.4äº¿å®ä½ãæ°æ®å¢å¼ºå¨æºå¨ç¿»è¯åå¶ä»nlpä»»å¡ä¸­çåºç¨åææãallennlpéè¯»çè§£:æ¯æå¤ç§æ°æ®åæ¨¡åãPDFè¡¨æ ¼æ°æ®æåå·¥å· ã Graphbrainï¼AIå¼æºè½¯ä»¶åºåç§ç å·¥å·ï¼ç®çæ¯ä¿è¿èªå¨æä¹æååææ¬çè§£ä»¥åç¥è¯çæ¢ç´¢åæ¨æ­ãç®åèªå¨ç­éç³»ç»ãåºäºå½åå®ä½è¯å«çç®åèªå¨æè¦ãä¸­æè¯­è¨çè§£æµè¯åºåï¼åæ¬ä»£è¡¨æ§çæ°æ®é&åºåæ¨¡å&è¯­æåº&æè¡æ¦ãæ æ´ OCR æå­è¯å« ãä»åå«è¡¨æ ¼çæ«æå¾çä¸­è¯å«è¡¨æ ¼åæå­ãè¯­å£°è¿ç§»ãPythonå£è¯­èªç¶è¯­è¨å¤çå·¥å·é(è±æ)ã similarityï¼ç¸ä¼¼åº¦è®¡ç®å·¥å·åï¼javaç¼åãæµ·éä¸­æé¢è®­ç»ALBERTæ¨¡å ãTransformers 2.0 ãåºäºå¤§è§æ¨¡é³é¢æ°æ®éAudiosetçé³é¢å¢å¼º ãPoplarï¼ç½é¡µçèªç¶è¯­è¨æ æ³¨å·¥å·ãå¾çæå­å»é¤ï¼å¯ç¨äºæ¼«ç»ç¿»è¯ ã186ç§è¯­è¨çæ°å­å«æ³åºãAmazonåå¸åºäºç¥è¯çäºº-äººå¼æ¾é¢åå¯¹è¯æ°æ®é ãä¸­æææ¬çº éæ¨¡åä»£ç ãç¹ç®ä½è½¬æ¢ ã Pythonå®ç°çå¤ç§ææ¬å¯è¯»æ§è¯ä»·ææ ãç±»ä¼¼äºäººå/å°å/ç»ç»æºæåçå½åä½è¯å«æ°æ®é ãä¸åå¤§å­¦ãç¥è¯å¾è°±ãç ç©¶çè¯¾ç¨(èµæ)ã. è±ææ¼åæ£æ¥åº ã wwsearchæ¯ä¼ä¸å¾®ä¿¡åå°èªç çå¨ææ£ç´¢å¼æãCHAMELEONï¼æ·±åº¦å­¦ä¹ æ°é»æ¨èç³»ç»åæ¶æ ã 8ç¯è®ºææ¢³çBERTç¸å³æ¨¡åè¿å±ä¸åæãDocSearchï¼åè´¹ææ¡£æç´¢å¼æã LIDAï¼è½»éäº¤äºå¼å¯¹è¯æ æ³¨å·¥å· ãaili - the fastest in-memory index in the East ä¸åçæå¿«å¹¶åç´¢å¼ ãç¥è¯å¾è°±è½¦é³å·¥ä½é¡¹ç®ãèªç¶è¯­è¨çæèµæºå¤§å¨ ãä¸­æ¥é©åè¯åºmecabçPythonæ¥å£åºãä¸­æææ¬æè¦/å³é®è¯æåãæ±å­å­ç¬¦ç¹å¾æåå¨ (featurizer)ï¼æåæ±å­çç¹å¾ï¼åé³ç¹å¾ãå­å½¢ç¹å¾ï¼ç¨åæ·±åº¦å­¦ä¹ çç¹å¾ãä¸­æçæä»»å¡åºåæµè¯ ãä¸­æç¼©åæ°æ®éãä¸­æä»»å¡åºåæµè¯ - ä»£è¡¨æ§çæ°æ®é-åºå(é¢è®­ç»)æ¨¡å-è¯­æåº-baseline-å·¥å·å-æè¡æ¦ãPySS3ï¼é¢åå¯è§£éAIçSS3ææ¬åç±»å¨æºå¨å¯è§åå·¥å· ãä¸­æNLPæ°æ®éåè¡¨ãCOPE - æ ¼å¾è¯ç¼è¾ç¨åºãdoccanoï¼åºäºç½é¡µçå¼æºååå¤è¯­è¨ææ¬æ æ³¨å·¥å· ãPreNLPï¼èªç¶è¯­è¨é¢å¤çåºãç®åçç®åè§£æå¨ï¼ç¨æ¥ä»ç®åä¸­æåå³é®ä¿¡æ¯ãç¨äºä¸­æé²èçGPT2æ¨¡åï¼GPT2-chitchatãåºäºæ£ç´¢èå¤©æºå¨äººå¤è½®ååºéæ©ç¸å³èµæºåè¡¨(LeaderboardsãDatasetsãPapers)ã(Colab)æ½è±¡ææ¬æè¦å®ç°éé¦(æç¨ ãè¯è¯­æ¼é³æ°æ®ãé«ææ¨¡ç³æç´¢å·¥å·ãNLPæ°æ®å¢å¹¿èµæºéãå¾®è½¯å¯¹è¯æºå¨äººæ¡æ¶ ã GitHub Typo Corpusï¼å¤§è§æ¨¡GitHubå¤è¯­è¨æ¼åéè¯¯/è¯­æ³éè¯¯æ°æ®éãTextClusterï¼ç­ææ¬èç±»é¢å¤çæ¨¡å Short text clusterãé¢åè¯­é³è¯å«çä¸­æææ¬è§èåãBLINKï¼æåè¿çå®ä½é¾æ¥åºãBertPuncï¼åºäºBERTçæåè¿æ ç¹ä¿®å¤æ¨¡åãTokenizerï¼å¿«éãå¯å®å¶çææ¬è¯æ¡ååºãä¸­æè¯­è¨çè§£æµè¯åºåï¼åæ¬ä»£è¡¨æ§çæ°æ®éãåºå(é¢è®­ç»)æ¨¡åãè¯­æåºãæè¡æ¦ãspaCy å»å­¦ææ¬ææä¸ä¿¡æ¯æå ã NLPä»»å¡ç¤ºä¾é¡¹ç®ä»£ç éã pythonæ¼åæ£æ¥åºãchatbot-list - è¡ä¸åå³äºæºè½å®¢æãèå¤©æºå¨äººçåºç¨åæ¶æãç®æ³åäº«åä»ç»ãè¯­é³è´¨éè¯ä»·ææ (MOSNet, BSSEval, STOI, PESQ, SRMR)ã ç¨138GBè¯­æè®­ç»çæ³æRoBERTaé¢è®­ç»è¯­è¨æ¨¡å ãBERT-NER-Pytorchï¼ä¸ç§ä¸åæ¨¡å¼çBERTä¸­æNERå®éªãæ éè¯å¸ - æéè¯å¸çå½ä»¤è¡çæ¬ï¼æ¯æè±æ±äºæ¥åå¨çº¿æ¥è¯¢ã2019å¹´NLPäº®ç¹åé¡¾ã Chinese medical dialogue data ä¸­æå»çå¯¹è¯æ°æ®é ãæå¥½çæ±å­æ°å­(ä¸­ææ°å­)-é¿æä¼¯æ°å­è½¬æ¢å·¥å·ã åºäºç¾ç§ç¥è¯åºçä¸­æè¯è¯­å¤è¯ä¹/ä¹é¡¹è·åä¸ç¹å®å¥å­è¯è¯­è¯­ä¹æ¶æ­§ãawesome-nlp-sentiment-analysis - ææåæãæç»ªåå è¯å«ãè¯ä»·å¯¹è±¡åè¯ä»·è¯æ½åãLineFlowï¼é¢åæææ·±åº¦å­¦ä¹ æ¡æ¶çNLPæ°æ®é«æå è½½å¨ãä¸­æå»å­¦NLPå¬å¼èµæºæ´ç ãMedQuADï¼(è±æ)å»å­¦é®ç­æ°æ®éãå°èªç¶è¯­è¨æ°å­ä¸²è§£æè½¬æ¢ä¸ºæ´æ°åæµ®ç¹æ°ãTransfer Learning in Natural Language Processing (NLP) ãé¢åè¯­é³è¯å«çä¸­æ/è±æåé³è¾å¸ãTokenizersï¼æ³¨éæ§è½ä¸å¤åè½æ§çæåè¿åè¯å¨ãCLUENER ç»ç²åº¦å½åå®ä½è¯å« Fine Grained Named Entity Recognitionã åºäºBERTçä¸­æå½åå®ä½è¯å«ãä¸­æè°£è¨æ°æ®åºãNLPæ°æ®é/åºåä»»å¡å¤§åè¡¨ãnlpç¸å³çä¸äºè®ºæåä»£ç , åæ¬ä¸»é¢æ¨¡åãè¯åé(Word Embedding)ãå½åå®ä½è¯å«(NER)ãææ¬åç±»(Text Classificatin)ãææ¬çæ(Text Generation)ãææ¬ç¸ä¼¼æ§(Text Similarity)è®¡ç®ç­ï¼æ¶åå°åç§ä¸nlpç¸å³çç®æ³ï¼åºäºkerasåtensorflow ãPythonææ¬ææ/NLPå®æç¤ºä¾ã Blackstoneï¼é¢åéç»æåæ³å¾ææ¬çspaCy pipelineåNLPæ¨¡åéè¿åä¹è¯æ¿æ¢å®ç°ææ¬âåè¸â ãä¸­æ é¢è®­ç» ELECTREA æ¨¡å: åºäºå¯¹æå­¦ä¹  pretrain Chinese Model ãalbert-chinese-ner - ç¨é¢è®­ç»è¯­è¨æ¨¡åALBERTåä¸­æNER ãåºäºGPT2çç¹å®ä¸»é¢ææ¬çæ/ææ¬å¢å¹¿ãå¼æºé¢è®­ç»è¯­è¨æ¨¡ååéãå¤è¯­è¨å¥åéåãç¼ç ãæ è®°åå®ç°ï¼ä¸ç§å¯æ§é«æçææ¬çææ¹æ³ã è±æèè¯å¤§åè¡¨ ãattnvisï¼GPT2ãBERTç­transformerè¯­è¨æ¨¡åæ³¨æåäº¤äºå¯è§åãCoVoSTï¼Facebookåå¸çå¤è¯­ç§è¯­é³-ææ¬ç¿»è¯è¯­æåºï¼åæ¬11ç§è¯­è¨(æ³è¯­ãå¾·è¯­ãè·å°è¯­ãä¿è¯­ãè¥¿ç­çè¯­ãæå¤§å©è¯­ãåè³å¶è¯­ãæ³¢æ¯è¯­ãçå¸è¯­ãèå¤è¯­åä¸­æ)çè¯­é³ãæå­è½¬å½åè±æè¯æãJiaguèªç¶è¯­è¨å¤çå·¥å· - ä»¥BiLSTMç­æ¨¡åä¸ºåºç¡ï¼æä¾ç¥è¯å¾è°±å³ç³»æ½å ä¸­æåè¯ è¯æ§æ æ³¨ å½åå®ä½è¯å« ææåæ æ°è¯åç° å³é®è¯ ææ¬æè¦ ææ¬èç±»ç­åè½ãç¨unetå®ç°å¯¹ææ¡£è¡¨æ ¼çèªå¨æ£æµï¼è¡¨æ ¼éå»ºãNLPäºä»¶æåæç®èµæºåè¡¨ ã éèé¢åèªç¶è¯­è¨å¤çç ç©¶èµæºå¤§åè¡¨ãCLUEDatasetSearch - ä¸­è±æNLPæ°æ®éï¼æç´¢ææä¸­æNLPæ°æ®éï¼éå¸¸ç¨è±æNLPæ°æ®é ãmedical_NER - ä¸­æå»å­¦ç¥è¯å¾è°±å½åå®ä½è¯å« ã(åä½)è®²å ææ¨ççåè´¹ä¹¦ãç¥è¯å¾è°±ç¸å³å­¦ä¹ èµæ/æ°æ®é/å·¥å·èµæºå¤§åè¡¨ãForteï¼çµæ´»å¼ºå¤§çèªç¶è¯­è¨å¤çpipelineå·¥å·é ãPythonå­ç¬¦ä¸²ç¸ä¼¼æ§ç®æ³åºãPyLaiaï¼é¢åæåææ¡£åæçæ·±åº¦å­¦ä¹ å·¥å·åãTextFoolerï¼éå¯¹ææ¬åç±»/æ¨ççå¯¹æææ¬çææ¨¡åãHaystackï¼çµæ´»ãå¼ºå¤§çå¯æ©å±é®ç­(QA)æ¡æ¶ãä¸­æå³é®ç­è¯­æ½åå·¥å·",https://github.com/fighting41love/funNLP,23832,23832,7197
+Detectron,"FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",https://github.com/facebookresearch/Detectron,23629,23629,5224
+gym,A toolkit for developing and comparing reinforcement learning algorithms.,https://github.com/openai/gym,22084,22084,6254
+YouCompleteMe,A code-completion engine for Vim,https://github.com/ycm-core/YouCompleteMe,21770,21770,2526
+linux-insides,A little bit about a linux kernel,https://github.com/0xAX/linux-insides,21672,21672,2442
+wtfpython,What the f*ck Python?,https://github.com/satwikkansal/wtfpython,21412,21412,1952
+pipenv, Python Development Workflow for Humans.,https://github.com/pypa/pipenv,20936,20936,1540
+ItChat,A complete and graceful API for Wechat. å¾®ä¿¡ä¸ªäººå·æ¥å£ãå¾®ä¿¡æºå¨äººåå½ä»¤è¡å¾®ä¿¡ï¼ä¸åè¡å³å¯èªå®ä¹ä¸ªäººå·æºå¨äººã,https://github.com/littlecodersh/ItChat,20776,20776,4867
+interactive-coding-challenges,120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.,https://github.com/donnemartin/interactive-coding-challenges,20704,20704,3246
+HanLP,ä¸­æåè¯ è¯æ§æ æ³¨ å½åå®ä½è¯å« ä¾å­å¥æ³åæ è¯­ä¹ä¾å­åæ æ°è¯åç° å³é®è¯ç­è¯­æå èªå¨æè¦ ææ¬åç±»èç±» æ¼é³ç®ç¹è½¬æ¢ èªç¶è¯­è¨å¤ç,https://github.com/hankcs/HanLP,20616,20616,5633
+compose,Define and run multi-container applications with Docker,https://github.com/docker/compose,20607,20607,3368
+fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production",https://github.com/tiangolo/fastapi,20571,20571,1379
+mitmproxy,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.,https://github.com/mitmproxy/mitmproxy,19812,19812,2596
+DeepFaceLab,DeepFaceLab is the leading software for creating deepfakes.,https://github.com/iperov/DeepFaceLab,19576,19576,4595
+data-science-ipython-notebooks,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",https://github.com/donnemartin/data-science-ipython-notebooks,19431,19431,6115
+tornado,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",https://github.com/tornadoweb/tornado,19399,19399,5230
+Real-Time-Voice-Cloning,Clone a voice in 5 seconds to generate arbitrary speech in real-time,https://github.com/CorentinJ/Real-Time-Voice-Cloning,19313,19313,3746
+cheat.sh,the only cheat sheet you need,https://github.com/chubin/cheat.sh,19303,19303,953
+algo,Set up a personal VPN in the cloud,https://github.com/trailofbits/algo,19137,19137,1639
+django-rest-framework,Web APIs for Django. ð¸,https://github.com/encode/django-rest-framework,18692,18692,5286
+d2l-zh,ãå¨æå­¦æ·±åº¦å­¦ä¹ ãï¼é¢åä¸­æè¯»èãè½è¿è¡ãå¯è®¨è®ºãè±æçå³ä¼¯åå©âæ·±åº¦å­¦ä¹ å¯¼è®ºâææã,https://github.com/d2l-ai/d2l-zh,18608,18608,4792
+Python,My Python Examples,https://github.com/geekcomputers/Python,18580,18580,8703
+airflow,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",https://github.com/apache/airflow,18123,18123,7028
+sqlmap,Automatic SQL injection and database takeover tool,https://github.com/sqlmapproject/sqlmap,18081,18081,3921
+pytorch-tutorial,PyTorch Tutorial for Deep Learning Researchers,https://github.com/yunjey/pytorch-tutorial,17950,17950,5744
+algorithms,Minimal examples of data structures and algorithms in Python,https://github.com/keon/algorithms,17792,17792,3601
+black,The uncompromising Python code formatter,https://github.com/psf/black,17759,17759,1083
+Mask_RCNN,Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow,https://github.com/matterport/Mask_RCNN,17686,17686,8593
+python-fire,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,https://github.com/google/python-fire,17658,17658,1084
+macOS-Security-and-Privacy-Guide,Guide to securing and improving privacy on macOS,https://github.com/drduh/macOS-Security-and-Privacy-Guide,17162,17162,1214
+spaCy,ð« Industrial-strength Natural Language Processing (NLP) with Python and Cython,https://github.com/explosion/spaCy,17158,17158,3088
+glances,"Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",https://github.com/nicolargo/glances,16722,16722,1095
+ML-From-Scratch,Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.,https://github.com/eriklindernoren/ML-From-Scratch,16719,16719,3317
+NLP-progress,"Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",https://github.com/sebastianruder/NLP-progress,16615,16615,2848
+algo,æ°æ®ç»æåç®æ³å¿ç¥å¿ä¼ç50ä¸ªä»£ç å®ç°,https://github.com/wangzheng0822/algo,16402,16402,5270
+PayloadsAllTheThings,A list of useful payloads and bypass for Web Application Security and Pentest/CTF,https://github.com/swisskyrepo/PayloadsAllTheThings,16394,16394,5250
+hosts,"Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.",https://github.com/StevenBlack/hosts,16032,16032,1455
+ZeroNet,ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network,https://github.com/HelloZeroNet/ZeroNet,16020,16020,2045
+celery,Distributed Task Queue (development branch),https://github.com/celery/celery,15707,15707,3799
+tqdm,"A Fast, Extensible Progress Bar for Python and CLI",https://github.com/tqdm/tqdm,15678,15678,818
+magenta,Magenta: Music and Art Generation with Machine Intelligence,https://github.com/magenta/magenta,15576,15576,3186
+reddit,historical code from reddit.com,https://github.com/reddit-archive/reddit,15464,15464,2842
+python-cheatsheet,Comprehensive Python Cheatsheet,https://github.com/gto76/python-cheatsheet,15386,15386,2978
+TensorFlow-Course,Simple and ready-to-use tutorials for TensorFlow ,https://github.com/instillai/TensorFlow-Course,14822,14822,3019
+professional-programming,A collection of full-stack resources for programmers.,https://github.com/charlax/professional-programming,14580,14580,1307
+pyspider,A Powerful Spider(Web Crawler) System in Python.,https://github.com/binux/pyspider,14547,14547,3523
+sherlock,ð Hunt down social media accounts by username across social networks,https://github.com/sherlock-project/sherlock,14538,14538,1478
+ipython,"Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",https://github.com/ipython/ipython,14365,14365,4035
+Awesome-Linux-Software,"A list of awesome applications, software, tools and other materials for Linux distros. ",https://github.com/luong-komorebi/Awesome-Linux-Software,14206,14206,1477
+toml,"Tom's Obvious, Minimal Language",https://github.com/toml-lang/toml,14102,14102,704
+sanic,Async Python 3.6+ web server/framework | Build fast. Run fast.,https://github.com/huge-success/sanic,14070,14070,1285
+examples,"A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",https://github.com/pytorch/examples,14036,14036,6589
+spleeter,Deezer source separation library including pretrained models.,https://github.com/deezer/spleeter,13957,13957,1368
+bitcoinbook,Mastering Bitcoin 2nd Edition - Programming the Open Blockchain,https://github.com/bitcoinbook/bitcoinbook,13956,13956,3989
+bokeh,"Interactive Data Visualization in the browser, from  Python",https://github.com/bokeh/bokeh,13927,13927,3485
+wechat_jump_game,å¾®ä¿¡ãè·³ä¸è·³ãPython è¾å©,https://github.com/wangshub/wechat_jump_game,13891,13891,4574
+PySnooper,Never use print for debugging again,https://github.com/cool-RR/PySnooper,13750,13750,859
+locust,Scalable user load testing tool written in Python,https://github.com/locustio/locust,13710,13710,1919
+nginx-proxy,Automated nginx proxy for Docker containers using docker-gen,https://github.com/nginx-proxy/nginx-proxy,13683,13683,2477
+luigi,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ",https://github.com/spotify/luigi,13681,13681,2170
+CheatSheetSeries,The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.,https://github.com/OWASP/CheatSheetSeries,13536,13536,1964
+cascadia-code,"This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",https://github.com/microsoft/cascadia-code,13413,13413,388
+gpt-2,"Code for the paper ""Language Models are Unsupervised Multitask Learners""",https://github.com/openai/gpt-2,13085,13085,3239
+ray,"An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.",https://github.com/ray-project/ray,12958,12958,1989
+pytorch-CycleGAN-and-pix2pix,Image-to-Image Translation in PyTorch,https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix,12887,12887,3829
+dash,"Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.",https://github.com/plotly/dash,12809,12809,1309
+cookiecutter,"A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.",https://github.com/cookiecutter/cookiecutter,12763,12763,1333
+Paddle,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice ï¼ãé£æ¡¨ãæ ¸å¿æ¡æ¶ï¼æ·±åº¦å­¦ä¹ &æºå¨å­¦ä¹ é«æ§è½åæºãåå¸å¼è®­ç»åè·¨å¹³å°é¨ç½²ï¼,https://github.com/PaddlePaddle/Paddle,12718,12718,3180
+wttr.in,:partly_sunny: The right way to check the weather,https://github.com/chubin/wttr.in,12702,12702,653
+zulip,Zulip server - powerful open source team chat,https://github.com/zulip/zulip,12536,12536,3922
+detectron2,Detectron2 is FAIR's next-generation platform for object detection and segmentation.,https://github.com/facebookresearch/detectron2,12447,12447,2947
+fabric,"Simple, Pythonic remote execution and deployment.",https://github.com/fabric/fabric,12444,12444,1809
+wxpy,å¾®ä¿¡æºå¨äºº / å¯è½æ¯æä¼éçå¾®ä¿¡ä¸ªäººå· API â¨â¨,https://github.com/youfou/wxpy,12414,12414,2165
+rich,Rich is a Python library for rich text and beautiful formatting in the terminal.,https://github.com/willmcgugan/rich,12283,12283,316
+awesome-python-login-model,ð®pythonæ¨¡æç»éä¸äºå¤§åç½ç«ï¼è¿æä¸äºç®åçç¬è«ï¼å¸æå¯¹ä½ ä»¬ææå¸®å©â¤ï¸ï¼å¦æåæ¬¢è®°å¾ç»ä¸ªstarå¦ð,https://github.com/Kr1s77/awesome-python-login-model,12208,12208,2659
+matplotlib,matplotlib: plotting with Python,https://github.com/matplotlib/matplotlib,12131,12131,5327
+poetry,Python dependency management and packaging made easy.,https://github.com/python-poetry/poetry,12051,12051,871
+chinese-programmer-wrong-pronunciation,ä¸­å½ç¨åºåå®¹æåé³éè¯¯çåè¯,https://github.com/shimohq/chinese-programmer-wrong-pronunciation,11972,11972,1042
+powerline,"Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.",https://github.com/powerline/powerline,11938,11938,907
+labelImg,ðï¸ LabelImg is a graphical image annotation tool and label object bounding boxes in images,https://github.com/tzutalin/labelImg,11803,11803,3949
+zipline,"Zipline, a Pythonic Algorithmic Trading Library",https://github.com/quantopian/zipline,11768,11768,3394
+kivy,"Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",https://github.com/kivy/kivy,11678,11678,2491
+autojump,A cd command that learns - easily navigate directories from the command line,https://github.com/wting/autojump,11627,11627,560
+python-telegram-bot,We have made you a wrapper you can't refuse,https://github.com/python-telegram-bot/python-telegram-bot,11609,11609,2465
+mmdetection,OpenMMLab Detection Toolbox and Benchmark,https://github.com/open-mmlab/mmdetection,11583,11583,3930
+neural-networks-and-deep-learning,"Code samples for my book ""Neural Networks and Deep Learning""",https://github.com/mnielsen/neural-networks-and-deep-learning,11573,11573,5424
+InstaPy,ð· Instagram Bot - Tool for automated Instagram interactions,https://github.com/timgrossmann/InstaPy,11409,11409,2938
+game-programmer,A Study Path for Game Programmer,https://github.com/miloyip/game-programmer,11406,11406,1432
+prophet,Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.,https://github.com/facebook/prophet,11398,11398,3198
+inter,The Inter font family,https://github.com/rsms/inter,11300,11300,252
+python-spider,:rainbow:Python3ç½ç»ç¬è«å®æï¼æ·å®ãäº¬ä¸ãç½æäºãBç«ã12306ãæé³ãç¬è¶£éãæ¼«ç»å°è¯´ä¸è½½ãé³ä¹çµå½±ä¸è½½ç­,https://github.com/Jack-Cherish/python-spider,11254,11254,4479
+salt,Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: ,https://github.com/saltstack/salt,11220,11220,4924
+requests-html,Pythonic HTML Parsing for Humansâ¢,https://github.com/psf/requests-html,11144,11144,730
+py12306,ð 12306 è´­ç¥¨å©æï¼æ¯æéç¾¤ï¼å¤è´¦å·ï¼å¤ä»»å¡è´­ç¥¨ä»¥å Web é¡µé¢ç®¡ç ,https://github.com/pjialin/py12306,11139,11139,2951
+gensim,Topic Modelling for Humans,https://github.com/RaRe-Technologies/gensim,11130,11130,3810
+material-theme,"Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino",https://github.com/equinusocio/material-theme,11079,11079,799
+magic-wormhole,"get things from one computer to another, safely",https://github.com/warner/magic-wormhole,11019,11019,415
+Zappa,Serverless Python,https://github.com/Miserlou/Zappa,10999,10999,1189
+yapf,A formatter for Python files,https://github.com/google/yapf,10987,10987,748
+pix2code,pix2code: Generating Code from a Graphical User Interface Screenshot,https://github.com/tonybeltramelli/pix2code,10978,10978,1229
+facenet,Face recognition using Tensorflow,https://github.com/davidsandberg/facenet,10974,10974,4427
+jupyter,"Jupyter metapackage for installation, docs and chat",https://github.com/jupyter/jupyter,10867,10867,2736
+mkdocs,Project documentation with Markdown.,https://github.com/mkdocs/mkdocs,10680,10680,1572
+wtfpython-cn,wtfpythonçä¸­æç¿»è¯/æ½å·¥ç»æ/ è½åæéï¼æ¬¢è¿å¸®ææ¹è¿ç¿»è¯,https://github.com/leisurelicht/wtfpython-cn,10644,10644,1923
+proxy_pool,Pythonç¬è«ä»£çIPæ± (proxy pool),https://github.com/jhao104/proxy_pool,10588,10588,2990
+neural-enhance,Super Resolution for images using deep learning.,https://github.com/alexjc/neural-enhance,10530,10530,1207
+baselines,OpenAI Baselines: high-quality implementations of reinforcement learning algorithms,https://github.com/openai/baselines,10476,10476,3593
+faker,Faker is a Python package that generates fake data for you.,https://github.com/joke2k/faker,10468,10468,1241
+tensor2tensor,Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.,https://github.com/tensorflow/tensor2tensor,10375,10375,2644
+FastPhotoStyle,"Style transfer, deep learning, feature transform",https://github.com/NVIDIA/FastPhotoStyle,10355,10355,1098
+walle-web,walle - ç¦å Devopså¼æºé¡¹ç®ä»£ç é¨ç½²å¹³å°,https://github.com/meolu/walle-web,10308,10308,2527
+ChatterBot,"ChatterBot is a machine learning, conversational dialog engine for creating chat bots",https://github.com/gunthercox/ChatterBot,10293,10293,3522
+mackup,Keep your application settings in sync (OS X/Linux),https://github.com/lra/mackup,10270,10270,804
+Gooey,Turn (almost) any Python command line program into a full GUI application with one line,https://github.com/chriskiehl/Gooey,10232,10232,599
+aiohttp,Asynchronous HTTP client/server framework for asyncio and Python,https://github.com/aio-libs/aiohttp,10177,10177,1459
+awesome-algorithm,é¡¹ç®æ°¸ä¹å»ç»ï¼è¿ç§»è³æ°å°åï¼,https://github.com/apachecn/awesome-algorithm,10111,10111,2142
+newspaper,"News, full-text, and article metadata extraction in Python 3. Advanced docs:",https://github.com/codelucas/newspaper,10093,10093,1661
+aws-cli,Universal Command Line Interface for Amazon Web Services,https://github.com/aws/aws-cli,10041,10041,2353
+speedtest-cli,Command line interface for testing internet bandwidth using speedtest.net,https://github.com/sivel/speedtest-cli,9994,9994,1417
+stylegan,StyleGAN - Official TensorFlow Implementation,https://github.com/NVlabs/stylegan,9986,9986,2262
+DeepCreamPy,Decensoring Hentai with Deep Neural Networks,https://github.com/deeppomf/DeepCreamPy,9938,9938,1118
+horovod,"Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",https://github.com/horovod/horovod,9910,9910,1593
+openage,Free (as in freedom) open source clone of the Age of Empires II engine :rocket:,https://github.com/SFTtech/openage,9901,9901,949
+ungoogled-chromium,"Google Chromium, sans integration with Google",https://github.com/Eloston/ungoogled-chromium,9873,9873,430
+pelican,Static site generator that supports Markdown and reST syntax. Powered by Python.,https://github.com/getpelican/pelican,9869,9869,1663
+imgaug,Image augmentation for machine learning experiments.,https://github.com/aleju/imgaug,9839,9839,1881
+tushare,TuShare is a utility for crawling historical data of China stocks,https://github.com/waditu/tushare,9828,9828,3779
+sovereign,"A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.",https://github.com/sovereign/sovereign,9788,9788,824
+click,Python composable command line interface toolkit,https://github.com/pallets/click,9722,9722,972
+pyecharts,ð¨ Python Echarts Plotting Library,https://github.com/pyecharts/pyecharts,9677,9677,2200
+stanford-tensorflow-tutorials,This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. ,https://github.com/chiphuyen/stanford-tensorflow-tutorials,9672,9672,4349
+rasa,"ð¬ Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",https://github.com/RasaHQ/rasa,9646,9646,2982
+jax,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",https://github.com/google/jax,9592,9592,794
+beets,music library manager and MusicBrainz tagger,https://github.com/beetbox/beets,9568,9568,1601
+kitty,"A cross-platform, fast, feature full, GPU based terminal emulator",https://github.com/kovidgoyal/kitty,9510,9510,466
+tflearn,Deep learning library featuring a higher-level API for TensorFlow.,https://github.com/tflearn/tflearn,9436,9436,2416
+neural-doodle,"Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)",https://github.com/alexjc/neural-doodle,9429,9429,861
+mailinabox,"Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",https://github.com/mail-in-a-box/mailinabox,9427,9427,1016
+fast-style-transfer,TensorFlow CNN for fast style transfer â¡ð¥ð¨ð¼,https://github.com/lengstrom/fast-style-transfer,9355,9355,2384
+Shadowrocket-ADBlock-Rules,æä¾å¤æ¬¾ Shadowrocket è§åï¼å¸¦å¹¿åè¿æ»¤åè½ãç¨äº iOS æªè¶ç±è®¾å¤éæ©æ§å°èªå¨ç¿»å¢ã,https://github.com/h2y/Shadowrocket-ADBlock-Rules,9341,9341,1428
+kubespray,Deploy a Production Ready Kubernetes Cluster,https://github.com/kubernetes-sigs/kubespray,9318,9318,3893
+flair,A very simple framework for state-of-the-art Natural Language Processing (NLP),https://github.com/flairNLP/flair,9283,9283,1281
+reinforcement-learning-an-introduction,Python Implementation of Reinforcement Learning: An Introduction,https://github.com/ShangtongZhang/reinforcement-learning-an-introduction,9231,9231,3703
+Theano,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.",https://github.com/Theano/Theano,9223,9223,2516
+nltk,NLTK Source,https://github.com/nltk/nltk,9202,9202,2389
+httpbin,"HTTP Request & Response Service, written in Python + Flask.",https://github.com/postmanlabs/httpbin,9173,9173,1347
+wagtail,A Django content management system focused on flexibility and user experience,https://github.com/wagtail/wagtail,9163,9163,1987
+wifiphisher,The Rogue Access Point Framework,https://github.com/wifiphisher/wifiphisher,9144,9144,2101
+the-gan-zoo,A list of all named GANs!,https://github.com/hindupuravinash/the-gan-zoo,9046,9046,1905
+mypy,Optional static typing for Python 3 and 2 (PEP 484),https://github.com/python/mypy,9046,9046,1444
+RocAlphaGo,"An independent, student-led replication of DeepMind's 2016 Nature publication, ""Mastering the game of Go with deep neural networks and tree search"" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html.",https://github.com/Rochester-NRT/RocAlphaGo,9041,9041,2488
+examples-of-web-crawlers,"ä¸äºéå¸¸æè¶£çpythonç¬è«ä¾å­,å¯¹æ°ææ¯è¾åå¥½,ä¸»è¦ç¬åæ·å®ãå¤©ç«ãå¾®ä¿¡ãè±ç£ãQQç­ç½ç«ã(Some interesting examples of python crawlers that are friendly to beginners. )",https://github.com/shengqiangzhang/examples-of-web-crawlers,9007,9007,2731
+allennlp,"An open-source NLP research library, built on PyTorch.",https://github.com/allenai/allennlp,8995,8995,1889
+avatarify,"Avatars for Zoom, Skype and other video-conferencing apps.",https://github.com/alievk/avatarify,8992,8992,1225
+sshuttle,Wrong project!  You should head over to http://github.com/sshuttle/sshuttle,https://github.com/apenwarr/sshuttle,8976,8976,669
+saleor,"A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.",https://github.com/mirumee/saleor,8953,8953,3152
+termtosvg,Record terminal sessions as SVG animations,https://github.com/nbedos/termtosvg,8951,8951,354
+pgcli,Postgres CLI with autocompletion and syntax highlighting,https://github.com/dbcli/pgcli,8898,8898,410
+mycli,A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.,https://github.com/dbcli/mycli,8890,8890,552
+numpy-ml,"Machine learning, in numpy",https://github.com/ddbourgin/numpy-ml,8871,8871,2515
+fairseq,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,https://github.com/pytorch/fairseq,8841,8841,2240
+redis-py,Redis Python Client,https://github.com/andymccurdy/redis-py,8790,8790,1875
+pytorch_geometric,Geometric Deep Learning Extension Library for PyTorch,https://github.com/rusty1s/pytorch_geometric,8762,8762,1444
+musicbox,ç½æäºé³ä¹å½ä»¤è¡çæ¬,https://github.com/darknessomi/musicbox,8534,8534,1525
+sonnet,TensorFlow-based neural network library,https://github.com/deepmind/sonnet,8499,8499,1230
+explainshell,match command-line arguments to their help text,https://github.com/idank/explainshell,8474,8474,543
+awesome-aws,"A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",https://github.com/donnemartin/awesome-aws,8447,8447,1049
+howdoi,instant coding answers via the command line,https://github.com/gleitz/howdoi,8420,8420,767
+tutorials,æºå¨å­¦ä¹ ç¸å³æç¨,https://github.com/MorvanZhou/tutorials,8410,8410,5021
+asciinema,Terminal session recorder ð¹,https://github.com/asciinema/asciinema,8392,8392,716
+XSStrike,Most advanced XSS scanner.,https://github.com/s0md3v/XSStrike,8337,8337,1179
+chisel,Chisel is a collection of LLDB commands to assist debugging iOS apps.,https://github.com/facebook/chisel,8316,8316,754
+ranger,A VIM-inspired filemanager for the console,https://github.com/ranger/ranger,8296,8296,588
+routersploit,Exploitation Framework for Embedded Devices,https://github.com/threat9/routersploit,8295,8295,1836
+calibre,The official source code repository for the calibre ebook manager,https://github.com/kovidgoyal/calibre,8272,8272,1333
+bert-as-service,Mapping a variable-length sentence to a fixed-length vector using BERT model,https://github.com/hanxiao/bert-as-service,8205,8205,1659
+Mailpile,"A free & open modern, fast email client with user-friendly encryption and privacy features",https://github.com/mailpile/Mailpile,8202,8202,998
+recommenders,Best Practices on Recommendation Systems,https://github.com/microsoft/recommenders,8198,8198,1330
+fashion-mnist,A MNIST-like fashion product database. Benchmark :point_right: ,https://github.com/zalandoresearch/fashion-mnist,8182,8182,1953
+DeDRM_tools,DeDRM tools for ebooks,https://github.com/apprenticeharper/DeDRM_tools,8158,8158,714
+MLAlgorithms,Minimal and clean examples of machine learning algorithms implementations,https://github.com/rushter/MLAlgorithms,8146,8146,1467
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,8069,8069,669
+coursera-dl,Script for downloading Coursera.org videos and naming them.,https://github.com/coursera-dl/coursera-dl,8056,8056,1977
+falcon,"The no-nonsense, minimalist web services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.",https://github.com/falconry/falcon,7977,7977,802
+thumbor,thumbor is an open-source photo thumbnail service by globo.com,https://github.com/thumbor/thumbor,7931,7931,685
+http-prompt,"An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/clihttp",https://github.com/httpie/http-prompt,7896,7896,302
+portia,Visual scraping for Scrapy,https://github.com/scrapinghub/portia,7887,7887,1271
+pytorch-lightning,"The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",https://github.com/PyTorchLightning/pytorch-lightning,7863,7863,931
+networkx,Network Analysis in Python,https://github.com/networkx/networkx,7848,7848,2044
+maskrcnn-benchmark,"Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",https://github.com/facebookresearch/maskrcnn-benchmark,7832,7832,2261
+peewee,"a small, expressive orm -- supports postgresql, mysql and sqlite",https://github.com/coleifer/peewee,7791,7791,1233
+plotly.py,The interactive graphing library for Python (includes Plotly Express) :sparkles:,https://github.com/plotly/plotly.py,7730,7730,1625
+Chinese-Word-Vectors,100+ Chinese Word Vectors ä¸ç¾ç§é¢è®­ç»ä¸­æè¯åé ,https://github.com/Embedding/Chinese-Word-Vectors,7722,7722,1815
+Pillow,The friendly PIL fork (Python Imaging Library),https://github.com/python-pillow/Pillow,7688,7688,1505
+django-cms,The easy-to-use and developer-friendly CMS,https://github.com/divio/django-cms,7685,7685,2532
+schedule,Python job scheduling for humans.,https://github.com/dbader/schedule,7675,7675,712
+q,q - Run SQL directly on CSV or TSV files  ,https://github.com/harelba/q,7673,7673,345
+awesome-scala,"A community driven list of useful Scala libraries, frameworks and software.",https://github.com/lauris/awesome-scala,7624,7624,1167
+qrcode,artistic QR Code in Python ï¼Animated GIF qr codeï¼- Python èºæ¯äºç»´ç çæå¨ ï¼GIFå¨æäºç»´ç ãå¾çäºç»´ç ï¼,https://github.com/sylnsfar/qrcode,7615,7615,1238
+seaborn,Statistical data visualization using matplotlib,https://github.com/mwaskom/seaborn,7609,7609,1305
+EverydayWechat,å¾®ä¿¡å©æï¼1.æ¯æ¥å®æ¶ç»å¥½åï¼å¥³åï¼åéå®å¶æ¶æ¯ã2.æºå¨äººèªå¨åå¤å¥½åã3.ç¾¤å©æåè½ï¼ä¾å¦ï¼æ¥è¯¢åå¾åç±»ãå¤©æ°ãæ¥åãçµå½±å®æ¶ç¥¨æ¿ãå¿«éç©æµãPM2.5ç­ï¼,https://github.com/sfyc23/EverydayWechat,7606,7606,1818
+visdom,"A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.",https://github.com/facebookresearch/visdom,7567,7567,949
+pattern,"Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",https://github.com/clips/pattern,7563,7563,1491
+w3-goto-world,"ðGit/AWS/Google éå ,SS/SSR/VMESSèç¹,WireGuard,IPFS, DeepWeb,Capitalism ç¥è¯å¨å¤åº",https://github.com/hoochanlon/w3-goto-world,7531,7531,1816
+searx,Privacy-respecting metasearch engine,https://github.com/searx/searx,7502,7502,1158
+scipy,Scipy library main repository,https://github.com/scipy/scipy,7474,7474,3399
+EasyOCR,"Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",https://github.com/JaidedAI/EasyOCR,7468,7468,669
+vid2vid,Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.,https://github.com/NVIDIA/vid2vid,7463,7463,1077
+tpot,A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.,https://github.com/EpistasisLab/tpot,7428,7428,1306
+word_cloud,A little word cloud generator in Python,https://github.com/amueller/word_cloud,7409,7409,1940
+d2l-en,"Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.",https://github.com/d2l-ai/d2l-en,7397,7397,1714
+Keras-GAN,Keras implementations of Generative Adversarial Networks.,https://github.com/eriklindernoren/Keras-GAN,7397,7397,2667
+autokeras,AutoML library for deep learning,https://github.com/keras-team/autokeras,7380,7380,1212
+zhao,ãç¼ç¨éæ³ãæ´ççãå¤ªå­åå³ç³»ç½ç»ãï¼ä¸é¨æ­é²èµµå½çæè´µ,https://github.com/programthink/zhao,7378,7378,1907
+serverless-application-model,AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications,https://github.com/aws/serverless-application-model,7374,7374,1881
+insightface,Face Analysis Project on MXNet,https://github.com/deepinsight/insightface,7372,7372,2619
+chinese-xinhua,:orange_book: ä¸­åæ°åå­å¸æ°æ®åºãåæ¬æ­åè¯­ï¼æè¯­ï¼è¯è¯­ï¼æ±å­ã,https://github.com/pwxcoo/chinese-xinhua,7339,7339,1687
+sympy,A computer algebra system written in pure Python,https://github.com/sympy/sympy,7315,7315,3095
+mlflow,Open source platform for the machine learning lifecycle,https://github.com/mlflow/mlflow,7273,7273,1634
+fuzzywuzzy,Fuzzy String Matching in Python,https://github.com/seatgeek/fuzzywuzzy,7260,7260,775
+jinja,A very fast and expressive template engine.,https://github.com/pallets/jinja,7242,7242,1331
+rq,Simple job queues for Python,https://github.com/rq/rq,7234,7234,1158
+TextBlob,"Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.",https://github.com/sloria/TextBlob,7225,7225,963
+PyTorch-GAN,PyTorch implementations of Generative Adversarial Networks.,https://github.com/eriklindernoren/PyTorch-GAN,7206,7206,2086
+universe,"Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",https://github.com/openai/universe,7203,7203,889
+chalice,Python Serverless Microframework for AWS,https://github.com/aws/chalice,7179,7179,714
+TrumpScript,Make Python great again,https://github.com/samshadwell/TrumpScript,7175,7175,406
+dask,Parallel computing with task scheduling,https://github.com/dask/dask,7165,7165,1146
+h4cker,"This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",https://github.com/The-Art-of-Hacking/h4cker,7164,7164,1162
+pretrained-models.pytorch,"Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.",https://github.com/Cadene/pretrained-models.pytorch,7160,7160,1551
+docopt,"Pythonic command line arguments parser, that will make you smile",https://github.com/docopt/docopt,7153,7153,537
+faceai,ä¸æ¬¾å¥é¨çº§çäººè¸ãè§é¢ãæå­æ£æµä»¥åè¯å«çé¡¹ç®.,https://github.com/vipstone/faceai,7150,7150,1820
+mlcourse.ai,Open Machine Learning Course,https://github.com/Yorko/mlcourse.ai,7148,7148,4702
+Douyin-Bot,ð Python æé³æºå¨äººï¼è®ºå¦ä½å¨æé³ä¸æ¾å°æ¼äº®å°å§å§ï¼ ,https://github.com/wangshub/Douyin-Bot,7146,7146,1521
+cookiecutter-django,Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.,https://github.com/pydanny/cookiecutter-django,7135,7135,1901
+pyinstaller,Freeze (package) Python programs into stand-alone executables,https://github.com/pyinstaller/pyinstaller,7129,7129,1510
+uvloop,Ultra fast asyncio event loop.,https://github.com/MagicStack/uvloop,7127,7127,420
+ArchiveBox,"ð The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",https://github.com/pirate/ArchiveBox,7118,7118,427
+anki,Anki for desktop computers,https://github.com/ankitects/anki,7115,7115,1110
+gunicorn,"gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.",https://github.com/benoitc/gunicorn,7107,7107,1333
+tweepy,Twitter for Python!,https://github.com/tweepy/tweepy,7073,7073,3207
+google-images-download,Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!,https://github.com/hardikvasa/google-images-download,7015,7015,1661
+elastalert,Easy & Flexible Alerting With ElasticSearch,https://github.com/Yelp/elastalert,6995,6995,1577
+pysc2,StarCraft II Learning Environment,https://github.com/deepmind/pysc2,6993,6993,1067
+py-faster-rcnn,Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version,https://github.com/rbgirshick/py-faster-rcnn,6988,6988,4000
+pwntools,CTF framework and exploit development library,https://github.com/Gallopsled/pwntools,6969,6969,1283
+bottle,bottle.py is a fast and simple micro-framework for python web-applications.,https://github.com/bottlepy/bottle,6956,6956,1338
+ludwig,Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.,https://github.com/uber/ludwig,6952,6952,838
+netbox,IP address management (IPAM) and data center infrastructure management (DCIM) tool.,https://github.com/netbox-community/netbox,6891,6891,1322
+Photon,Incredibly fast crawler designed for OSINT.,https://github.com/s0md3v/Photon,6869,6869,946
+gitsome,A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools,https://github.com/donnemartin/gitsome,6868,6868,388
+loguru,Python logging made (stupidly) simple,https://github.com/Delgan/loguru,6848,6848,310
+EasyFN,With EasyFNBot you can easily create you own Fortnite Lobby Bot in less than 5 minutes which will be online forever!,https://github.com/LupusLeaks/EasyFN,6834,6834,290
+nni,"An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",https://github.com/microsoft/nni,6820,6820,938
+moviepy,Video editing with Python,https://github.com/Zulko/moviepy,6812,6812,972
+node-gyp,Node.js native addon build tool,https://github.com/nodejs/node-gyp,6768,6768,1233
+abu,é¿å¸éåäº¤æç³»ç»(è¡ç¥¨ï¼ææï¼æè´§ï¼æ¯ç¹å¸ï¼æºå¨å­¦ä¹ ) åºäºpythonçå¼æºéåäº¤æï¼éåæèµæ¶æ,https://github.com/bbfamily/abu,6760,6760,2512
+WeixinBot,ç½é¡µçå¾®ä¿¡APIï¼åå«ç»ç«¯çå¾®ä¿¡åå¾®ä¿¡æºå¨äºº,https://github.com/Urinx/WeixinBot,6759,6759,1960
+erpnext,Open Source Alternative to SAP,https://github.com/frappe/erpnext,6757,6757,2904
+flasky,"Companion code to my O'Reilly book ""Flask Web Development"", second edition.",https://github.com/miguelgrinberg/flasky,6742,6742,3600
+gdb-dashboard,Modular visual interface for GDB in Python,https://github.com/cyrus-and/gdb-dashboard,6674,6674,521
+mopidy,Mopidy is an extensible music server written in Python,https://github.com/mopidy/mopidy,6645,6645,642
+30-seconds-of-python,Short Python code snippets for all your development needs,https://github.com/30-seconds/30-seconds-of-python,6626,6626,915
+Mobile-Security-Framework-MobSF,"Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",https://github.com/MobSF/Mobile-Security-Framework-MobSF,6622,6622,1803
+synapse,Synapse: Matrix reference homeserver,https://github.com/matrix-org/synapse,6619,6619,1172
+ParlAI,A framework for training and evaluating AI models on a variety of openly available dialogue datasets.,https://github.com/facebookresearch/ParlAI,6573,6573,1335
+psutil,Cross-platform lib for process and system monitoring in Python,https://github.com/giampaolo/psutil,6562,6562,1030
+deep-learning-models,Keras code and weights files for popular deep learning models.,https://github.com/fchollet/deep-learning-models,6533,6533,2281
+pip,The Python package installer,https://github.com/pypa/pip,6529,6529,2081
+tensorboardX,"tensorboard for pytorch (and chainer, mxnet, numpy, ...)",https://github.com/lanpa/tensorboardX,6517,6517,742
+gixy,Nginx configuration static analyzer,https://github.com/yandex/gixy,6497,6497,308
+python-prompt-toolkit,Library for building powerful interactive command line applications in Python,https://github.com/prompt-toolkit/python-prompt-toolkit,6485,6485,498
+machine-learning-course,:speech_balloon: Machine Learning Course with Python: ,https://github.com/instillai/machine-learning-course,6482,6482,1172
+text_classification,all kinds of text classification models and more with deep learning,https://github.com/brightmart/text_classification,6469,6469,2379
+paramiko,The leading native Python SSHv2 protocol library.,https://github.com/paramiko/paramiko,6469,6469,1583
+SpaceshipGenerator,A Blender script to procedurally generate 3D spaceships,https://github.com/a1studmuffin/SpaceshipGenerator,6468,6468,329
+binwalk,Firmware Analysis Tool,https://github.com/ReFirmLabs/binwalk,6462,6462,988
+pyro,Deep universal probabilistic programming with Python and PyTorch,https://github.com/pyro-ppl/pyro,6442,6442,768
+boto,"For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services",https://github.com/boto/boto,6442,6442,2313
+pytest,"The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",https://github.com/pytest-dev/pytest,6440,6440,1499
+twint,"An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",https://github.com/twintproject/twint,6434,6434,935
+Anti-Anti-Spider,è¶æ¥è¶å¤çç½ç«å·æåç¬è«ç¹æ§ï¼æçç¨å¾çéèå³é®æ°æ®ï¼æçä½¿ç¨åäººç±»çéªè¯ç ï¼å»ºç«ååç¬è«çä»£ç ä»åºï¼éè¿ä¸ä¸åç¹æ§çç½ç«åæäºï¼æ æ¶æï¼æé«ææ¯ãï¼æ¬¢è¿æäº¤é¾ä»¥ééçç½ç«ï¼ï¼å å·¥ä½åå ï¼é¡¹ç®æåï¼ ,https://github.com/luyishisi/Anti-Anti-Spider,6417,6417,2142
+records,SQL for Humansâ¢,https://github.com/kennethreitz-archive/records,6373,6373,524
+howmanypeoplearearound,Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:,https://github.com/schollz/howmanypeoplearearound,6351,6351,349
+supervisor,Supervisor process control system for UNIX,https://github.com/Supervisor/supervisor,6349,6349,1061
+mps-youtube,Terminal based YouTube player and downloader,https://github.com/mps-youtube/mps-youtube,6339,6339,532
+bup,"Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).",https://github.com/bup/bup,6323,6323,379
+hug,"Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.",https://github.com/hugapi/hug,6309,6309,359
+yowsup,The WhatsApp lib,https://github.com/tgalal/yowsup,6290,6290,2152
+pysheeet,Python Cheat Sheet,https://github.com/crazyguitar/pysheeet,6266,6266,876
+arrow,Better dates & times for Python,https://github.com/arrow-py/arrow,6259,6259,533
+tensorlayer,Deep Learning and Reinforcement Learning Library for Scientists and Engineers ð¥,https://github.com/tensorlayer/tensorlayer,6251,6251,1411
+generative-models,"Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",https://github.com/wiseodd/generative-models,6227,6227,1939
+dvc,ð¦Data Version Control | Git for Data & Models,https://github.com/iterative/dvc,6218,6218,536
+eve,REST API framework designed for human beings,https://github.com/pyeve/eve,6181,6181,717
+keras-yolo3,A Keras implementation of YOLOv3 (Tensorflow backend),https://github.com/qqwweee/keras-yolo3,6162,6162,3080
+python-for-android,Turn your Python application into an Android APK,https://github.com/kivy/python-for-android,6132,6132,1330
+nupic,"Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.",https://github.com/numenta/nupic,6126,6126,1580
+theZoo,A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.,https://github.com/ytisf/theZoo,6119,6119,1732
+deis,"Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. ",https://github.com/deis/deis,6116,6116,850
+PyMySQL,Pure Python MySQL Client,https://github.com/PyMySQL/PyMySQL,6115,6115,1231
+PySyft,A library for answering questions using data you cannot see,https://github.com/OpenMined/PySyft,6110,6110,1395
+ajenti,Ajenti Core and stock plugins,https://github.com/ajenti/ajenti,6100,6100,746
+devops-exercises,"Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",https://github.com/bregman-arie/devops-exercises,6086,6086,933
+django-debug-toolbar,A configurable set of panels that display various debug information about the current request/response.,https://github.com/jazzband/django-debug-toolbar,6077,6077,883
+SPADE,Semantic Image Synthesis with SPADE,https://github.com/NVlabs/SPADE,6029,6029,747
+Statistical-Learning-Method_Code,æåå®ç°æèªãç»è®¡å­¦ä¹ æ¹æ³ãä¹¦ä¸­å¨é¨ç®æ³,https://github.com/Dod-o/Statistical-Learning-Method_Code,6028,6028,1833
+readthedocs.org,The source code that powers readthedocs.org,https://github.com/readthedocs/readthedocs.org,6008,6008,3213
+albumentations,Fast image augmentation library and easy to use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about library: https://www.mdpi.com/2078-2489/11/2/125,https://github.com/albumentations-team/albumentations,5984,5984,779
+diagrams,:art: Diagram as Code for prototyping cloud system architectures,https://github.com/mingrammer/diagrams,5980,5980,341
+graphene,GraphQL framework for Python,https://github.com/graphql-python/graphene,5980,5980,634
+ngxtop,Real-time metrics for nginx server,https://github.com/lebinh/ngxtop,5979,5979,448
+pytext,A natural language modeling framework based on PyTorch,https://github.com/facebookresearch/pytext,5977,5977,747
+fsociety,fsociety Hacking Tools Pack â A Penetration Testing Framework,https://github.com/Manisso/fsociety,5977,5977,1402
+BossSensor,Hide screen when boss is approaching.,https://github.com/Hironsan/BossSensor,5946,5946,1101
+gitfiti,abusing github commit history for the lulz,https://github.com/gelstudios/gitfiti,5932,5932,671
+ipwndfu,open-source jailbreaking tool for many iOS devices,https://github.com/axi0mX/ipwndfu,5929,5929,1519
+beeswithmachineguns,A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).,https://github.com/newsapps/beeswithmachineguns,5906,5906,651
+nginx-book,Nginxå¼åä»å¥é¨å°ç²¾é,https://github.com/taobao/nginx-book,5889,5889,1878
+altair,Declarative statistical visualization library for Python,https://github.com/altair-viz/altair,5883,5883,543
+jupyterhub,Multi-user server for Jupyter notebooks,https://github.com/jupyterhub/jupyterhub,5813,5813,1441
+DeepLearningFlappyBird,Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).,https://github.com/yenchenlin/DeepLearningFlappyBird,5801,5801,1911
+transferlearning,Everything about Transfer Learning and Domain Adaptation--è¿ç§»å­¦ä¹ ,https://github.com/jindongwang/transferlearning,5793,5793,2140
+django-allauth,"Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.",https://github.com/pennersr/django-allauth,5784,5784,2049
+pupy,"Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python",https://github.com/n1nj4sec/pupy,5776,5776,1511
+sshuttle,Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.,https://github.com/sshuttle/sshuttle,5775,5775,402
+qutebrowser,"A keyboard-driven, vim-like browser based on PyQt5.",https://github.com/qutebrowser/qutebrowser,5775,5775,770
+Python,Pythonèæ¬ãæ¨¡æç»å½ç¥ä¹ï¼ ç¬è«ï¼æä½excelï¼å¾®ä¿¡å¬ä¼å·ï¼è¿ç¨å¼æº,https://github.com/injetlee/Python,5757,5757,3079
+boto3,AWS SDK for Python,https://github.com/boto/boto3,5735,5735,1227
+aws-shell,An integrated shell for working with the AWS CLI.,https://github.com/awslabs/aws-shell,5733,5733,572
+deepo,Set up deep learning environment in a single command line.,https://github.com/ufoym/deepo,5730,5730,716
+flask-restful,Simple framework for creating REST APIs,https://github.com/flask-restful/flask-restful,5717,5717,896
+LaZagne,Credentials recovery project,https://github.com/AlessandroZ/LaZagne,5703,5703,1528
+social-engineer-toolkit,The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.,https://github.com/trustedsec/social-engineer-toolkit,5695,5695,1792
+tensorpack,"A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility",https://github.com/tensorpack/tensorpack,5691,5691,1702
+incubator-tvm,"Open deep learning compiler stack for cpu, gpu and specialized accelerators",https://github.com/apache/incubator-tvm,5690,5690,1625
+SerpentAI,Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!,https://github.com/SerpentAI/SerpentAI,5674,5674,631
+sanitizers,"AddressSanitizer, ThreadSanitizer, MemorySanitizer",https://github.com/google/sanitizers,5673,5673,608
+spyder,Official repository for Spyder - The Scientific Python Development Environment,https://github.com/spyder-ide/spyder,5657,5657,1148
+yolov3,YOLOv3 in PyTorch > ONNX > CoreML > iOS,https://github.com/ultralytics/yolov3,5651,5651,2075
+darkflow,"Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices",https://github.com/thtrieu/darkflow,5647,5647,2051
+legit,"Git for Humans, Inspired by GitHub for Macâ¢.",https://github.com/frostming/legit,5647,5647,227
+faster-rcnn.pytorch,A faster pytorch implementation of faster r-cnn,https://github.com/jwyang/faster-rcnn.pytorch,5616,5616,1941
+vibora,"Fast, asynchronous and elegant Python web framework.",https://github.com/vibora-io/vibora,5611,5611,318
+fuck-login,æ¨¡æç»å½ä¸äºç¥åçç½ç«ï¼ä¸ºäºæ¹ä¾¿ç¬åéè¦ç»å½çç½ç«,https://github.com/xchaoinfo/fuck-login,5606,5606,2057
+numpy-100,100 numpy exercises (with solutions),https://github.com/rougier/numpy-100,5604,5604,2920
+dgl,"Python package built to ease deep learning on graph, on top of existing DL frameworks.",https://github.com/dmlc/dgl,5590,5590,1076
+numba,NumPy aware dynamic Python compiler using LLVM,https://github.com/numba/numba,5590,5590,692
+NewsBlur,NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.,https://github.com/samuelclay/NewsBlur,5582,5582,936
+ultisnips,UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!,https://github.com/SirVer/ultisnips,5576,5576,586
+scapy,Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.,https://github.com/secdev/scapy,5561,5561,1280
+trump2cash,A stock trading bot powered by Trump tweets,https://github.com/maxbbraun/trump2cash,5559,5559,803
+httpx,A next generation HTTP client for Python. ð¦,https://github.com/encode/httpx,5554,5554,360
+nmt,TensorFlow Neural Machine Translation Tutorial,https://github.com/tensorflow/nmt,5547,5547,1854
+eat_tensorflow2_in_30_days,"Tensorflow2.0 ðð is delicious, just eat it! ðð",https://github.com/lyhue1991/eat_tensorflow2_in_30_days,5544,5544,1480
+chinese-dos-games,ð® Chinese DOS games in browser.,https://github.com/rwv/chinese-dos-games,5532,5532,601
+Reinforcement-learning-with-tensorflow,Simple Reinforcement learning tutorials,https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow,5530,5530,3674
+wait-for-it,Pure bash script to test and wait on the availability of a TCP host and port,https://github.com/vishnubob/wait-for-it,5521,5521,1506
+shadowsocksr,Python port of ShadowsocksR,https://github.com/shadowsocksr-backup/shadowsocksr,5508,5508,3314
+UGATIT,Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020),https://github.com/taki0112/UGATIT,5502,5502,935
+statsmodels,Statsmodels: statistical modeling and econometrics in Python,https://github.com/statsmodels/statsmodels,5499,5499,2041
+apistar,The Web API toolkit. ð ,https://github.com/encode/apistar,5482,5482,432
+interpy-zh,ðãPythonè¿é¶ãï¼Intermediate Python ä¸­æçï¼,https://github.com/eastlakeside/interpy-zh,5463,5463,1275
+chainer,A flexible framework of neural networks for deep learning,https://github.com/chainer/chainer,5447,5447,1370
+webpy,web.py is a web framework for python that is as simple as it is powerful. ,https://github.com/webpy/webpy,5447,5447,1310
+bypy,Python client for Baidu Yun (Personal Cloud Storage) ç¾åº¦äº/ç¾åº¦ç½çPythonå®¢æ·ç«¯,https://github.com/houtianze/bypy,5438,5438,1168
+Flashlight,The missing Spotlight plugin system,https://github.com/nate-parrott/Flashlight,5426,5426,441
+cython,The most widely used Python to C compiler,https://github.com/cython/cython,5425,5425,1066
+machine_learning_examples,A collection of machine learning examples and tutorials.,https://github.com/lazyprogrammer/machine_learning_examples,5425,5425,4918
+werkzeug,The comprehensive WSGI web application library.,https://github.com/pallets/werkzeug,5424,5424,1474
+xlnet,XLNet: Generalized Autoregressive Pretraining for Language Understanding,https://github.com/zihangdai/xlnet,5416,5416,1072
+stylegan2,StyleGAN2 - Official TensorFlow Implementation,https://github.com/NVlabs/stylegan2,5414,5414,1144
+discord.py,An API wrapper for Discord written in Python.,https://github.com/Rapptz/discord.py,5409,5409,1603
+sh,Python process launching,https://github.com/amoffat/sh,5384,5384,426
+opensnitch,OpenSnitch is a GNU/Linux port of the Little Snitch application firewall,https://github.com/evilsocket/opensnitch,5379,5379,281
+programming-talks,Awesome & interesting talks about programming,https://github.com/hellerve/programming-talks,5378,5378,389
+awesome-cheatsheet,:beers: awesome cheatsheet,https://github.com/detailyang/awesome-cheatsheet,5375,5375,856
+taiga-back,Agile project management platform. Built on top of Django and AngularJS,https://github.com/taigaio/taiga-back,5362,5362,1049
+powerline-shell,A beautiful and useful prompt for your shell,https://github.com/b-ryan/powerline-shell,5361,5361,716
+practical-python,Practical Python Programming (course by @dabeaz),https://github.com/dabeaz-course/practical-python,5361,5361,2605
+wav2letter,Facebook AI Research's Automatic Speech Recognition Toolkit ,https://github.com/facebookresearch/wav2letter,5345,5345,905
+impacket,Impacket is a collection of Python classes for working with network protocols.,https://github.com/SecureAuthCorp/impacket,5339,5339,1583
+docker-stacks,Ready-to-run Docker images containing Jupyter applications,https://github.com/jupyter/docker-stacks,5324,5324,2120
+labelme,"Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).",https://github.com/wkentaro/labelme,5320,5320,1644
+codeface,Typefaces for source code beautification,https://github.com/chrissimpkins/codeface,5319,5319,405
+open_nsfw,Not Suitable for Work (NSFW) classification using deep neural network Caffe models.,https://github.com/yahoo/open_nsfw,5318,5318,1036
+fail2ban,Daemon to ban hosts that cause multiple authentication errors,https://github.com/fail2ban/fail2ban,5298,5298,879
+seq2seq,A general-purpose encoder-decoder framework for Tensorflow,https://github.com/google/seq2seq,5288,5288,1268
+progressive_growing_of_gans,"Progressive Growing of GANs for Improved Quality, Stability, and Variation",https://github.com/tkarras/progressive_growing_of_gans,5273,5273,1022
+cnn-text-classification-tf,Convolutional Neural Network for Text Classification in Tensorflow,https://github.com/dennybritz/cnn-text-classification-tf,5272,5272,2686
+gevent,Coroutine-based concurrency library for Python,https://github.com/gevent/gevent,5264,5264,877
+Dshell,Dshell is a network forensic analysis framework.,https://github.com/USArmyResearchLab/Dshell,5262,5262,1163
+deoplete.nvim,:stars: Dark powered asynchronous completion framework for neovim/Vim8,https://github.com/Shougo/deoplete.nvim,5262,5262,288
+data-science-from-scratch,code for Data Science From Scratch book,https://github.com/joelgrus/data-science-from-scratch,5261,5261,3141
+Ultra-Light-Fast-Generic-Face-Detector-1MB, ð1MB lightweight face detection model  (1MBè½»éçº§äººè¸æ£æµæ¨¡å),https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB,5239,5239,1188
+boltons,"ð© Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.",https://github.com/mahmoud/boltons,5232,5232,281
+ImageAI,A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities,https://github.com/OlafenwaMoses/ImageAI,5232,5232,1509
+data-science-blogs,A curated list of data science blogs,https://github.com/rushter/data-science-blogs,5231,5231,1565
+pymc3,Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano,https://github.com/pymc-devs/pymc3,5226,5226,1262
+neural-style,Neural style in TensorFlow! ð¨,https://github.com/anishathalye/neural-style,5226,5226,1501
+modin,Modin: Speed up your Pandas workflows by changing a single line of code,https://github.com/modin-project/modin,5226,5226,358
+urh,Universal Radio Hacker: Investigate Wireless Protocols Like A Boss,https://github.com/jopohl/urh,5209,5209,522
+spinningup,An educational resource to help anyone learn deep reinforcement learning.,https://github.com/openai/spinningup,5207,5207,1141
+voltron,A hacky debugger UI for hackers,https://github.com/snare/voltron,5206,5206,352
+edx-platform,"The Open edX platform, the software that powers edX!",https://github.com/edx/edx-platform,5204,5204,2857
+aws-sam-cli,"CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM",https://github.com/aws/aws-sam-cli,5200,5200,809
+iOSBlogCN,ä¸­æ iOS/Mac å¼ååå®¢åè¡¨,https://github.com/tangqiaoboy/iOSBlogCN,5176,5176,1331
+eht-imaging,"Imaging, analysis, and simulation software for radio interferometry",https://github.com/achael/eht-imaging,5160,5160,463
+srez,Image super-resolution through deep learning,https://github.com/david-gpu/srez,5153,5153,663
+neuraltalk,NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.,https://github.com/karpathy/neuraltalk,5145,5145,1352
+nlp-recipes,Natural Language Processing Best Practices & Examples,https://github.com/microsoft/nlp-recipes,5141,5141,696
+Sublist3r,Fast subdomains enumeration tool for penetration testers,https://github.com/aboul3la/Sublist3r,5124,5124,1296
+meshroom,3D Reconstruction Software,https://github.com/alicevision/meshroom,5116,5116,519
+wxBot,Pythonç½é¡µå¾®ä¿¡API,https://github.com/liuwons/wxBot,5106,5106,1662
+dejavu,Audio fingerprinting and recognition in Python,https://github.com/worldveil/dejavu,5104,5104,1195
+dev-setup,"macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.",https://github.com/donnemartin/dev-setup,5098,5098,1024
+models,Pre-trained and Reproduced Deep Learning Models ï¼ãé£æ¡¨ãå®æ¹æ¨¡ååºï¼åå«å¤ç§å­¦æ¯åæ²¿åå·¥ä¸åºæ¯éªè¯çæ·±åº¦å­¦ä¹ æ¨¡åï¼,https://github.com/PaddlePaddle/models,5087,5087,2385
+streamlink,Streamlink is a CLI utility which pipes video streams from various services into a video player,https://github.com/streamlink/streamlink,5072,5072,591
+featuretools,An open source python library for automated feature engineering,https://github.com/FeatureLabs/featuretools,5059,5059,661
+truffleHog,"Searches through git repositories for high entropy strings and secrets, digging deep into commit history",https://github.com/dxa4481/truffleHog,5058,5058,682
+speech_recognition,"Speech recognition module for Python, supporting several engines and APIs, online and offline.",https://github.com/Uberi/speech_recognition,5057,5057,1747
+trape,People tracker on the Internet: OSINT analysis and research tool by Jose Pino,https://github.com/jofpin/trape,5055,5055,946
+python-small-examples,åå«æ¯ç¥ï¼è´åäºæé  Python å¯æä½ç³»ä¸å®ç¨çå°ä¾å­ãå°æ¡ä¾ã,https://github.com/jackzhenguo/python-small-examples,5053,5053,1164
+PyTorch-YOLOv3,Minimal PyTorch implementation of YOLOv3,https://github.com/eriklindernoren/PyTorch-YOLOv3,5051,5051,1993
+SublimeCodeIntel,ð¡ Full-featured code intelligence and smart autocomplete for Sublime Text,https://github.com/SublimeCodeIntel/SublimeCodeIntel,5042,5042,557
+pkuseg-python,pkusegå¤é¢åä¸­æåè¯å·¥å·; The pkuseg toolkit for multi-domain Chinese word segmentation,https://github.com/lancopku/pkuseg-python,5024,5024,794
+PythonSpiderNotes,Pythonå¥é¨ç½ç»ç¬è«ä¹ç²¾åç,https://github.com/lining0806/PythonSpiderNotes,5011,5011,1969
+hyperopt,Distributed Asynchronous Hyperparameter Optimization in Python,https://github.com/hyperopt/hyperopt,5006,5006,813
+DisableWinTracking,Uses some known methods that attempt to minimize tracking in Windows 10,https://github.com/10se1ucgo/DisableWinTracking,5006,5006,346
+TopDeepLearning,A list of popular github projects related to deep learning,https://github.com/aymericdamien/TopDeepLearning,4992,4992,1067
+learn-python,ð Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.,https://github.com/trekhleb/learn-python,4990,4990,878
+byob,BYOB (Build Your Own Botnet),https://github.com/malwaredllc/byob,4973,4973,992
+robotframework,Generic automation framework for acceptance testing and RPA,https://github.com/robotframework/robotframework,4969,4969,1477
+vaex," Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second ð",https://github.com/vaexio/vaex,4965,4965,377
+django-extensions,This is a repository for collecting global custom management extensions for the Django Framework. ,https://github.com/django-extensions/django-extensions,4963,4963,977
+marshmallow,A lightweight library for converting complex objects to and from simple Python datatypes.,https://github.com/marshmallow-code/marshmallow,4952,4952,523
+face_classification,Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.,https://github.com/oarriaga/face_classification,4942,4942,1492
+MMdnn,"MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",https://github.com/microsoft/MMdnn,4935,4935,925
+snownlp,Python library for processing Chinese text,https://github.com/isnowfy/snownlp,4934,4934,1205
+tensorflow-wavenet,A TensorFlow implementation of DeepMind's WaveNet paper,https://github.com/ibab/tensorflow-wavenet,4925,4925,1249
+gspread,Google Sheets Python API,https://github.com/burnash/gspread,4913,4913,752
+autograd,Efficiently computes derivatives of numpy code.,https://github.com/HIPS/autograd,4909,4909,707
+gcn,Implementation of Graph Convolutional Networks in TensorFlow,https://github.com/tkipf/gcn,4909,4909,1520
+docker-py,A Python library for the Docker Engine API,https://github.com/docker/docker-py,4885,4885,1416
+youtube-dl-gui,A cross platform front-end GUI of the popular youtube-dl written in wxPython.,https://github.com/MrS0m30n3/youtube-dl-gui,4877,4877,731
+folium,Python Data. Leaflet.js Maps. ,https://github.com/python-visualization/folium,4877,4877,1787
+wechat-deleted-friends,æ¥çè¢«å çå¾®ä¿¡å¥½å,https://github.com/0x5e/wechat-deleted-friends,4876,4876,1658
+have-fun-with-machine-learning,An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks,https://github.com/humphd/have-fun-with-machine-learning,4865,4865,537
+faust,Python Stream Processing,https://github.com/robinhood/faust,4845,4845,394
+trax,Trax â Deep Learning with Clear Code and Speed,https://github.com/google/trax,4831,4831,406
+grip,Preview GitHub README.md files locally before committing them.,https://github.com/joeyespo/grip,4826,4826,331
+Learning-to-See-in-the-Dark,Learning to See in the Dark. CVPR 2018,https://github.com/cchen156/Learning-to-See-in-the-Dark,4823,4823,742
+prefect,The easiest way to automate your data,https://github.com/PrefectHQ/prefect,4811,4811,357
+auto-sklearn,Automated Machine Learning with scikit-learn,https://github.com/automl/auto-sklearn,4810,4810,915
+spiderfoot,SpiderFoot automates OSINT collection so that you can focus on analysis.,https://github.com/smicallef/spiderfoot,4809,4809,945
+pre-commit,A framework for managing and maintaining multi-language pre-commit hooks.,https://github.com/pre-commit/pre-commit,4791,4791,366
+keras-rl,Deep Reinforcement Learning for Keras.,https://github.com/keras-rl/keras-rl,4775,4775,1266
+pix2pixHD,Synthesizing and manipulating 2048x1024 images with conditional GANs,https://github.com/NVIDIA/pix2pixHD,4755,4755,994
+uncaptcha2,defeating the latest version of ReCaptcha with 91% accuracy,https://github.com/ecthros/uncaptcha2,4748,4748,455
+iScript,"åç§èæ¬ -- å³äº è¾ç±³ xiami.com, ç¾åº¦ç½ç pan.baidu.com, 115ç½ç 115.com, ç½æé³ä¹ music.163.com, ç¾åº¦é³ä¹ music.baidu.com, 360ç½ç/äºç yunpan.cn, è§é¢è§£æ flvxz.com, bt torrent â magnet, ed2k æç´¢, tumblr å¾çä¸è½½, unzip",https://github.com/PeterDing/iScript,4745,4745,1192
+ChatBotCourse,èªå·±å¨æåèå¤©æºå¨äººæç¨,https://github.com/CoderCharlesLee/ChatBotCourse,4741,4741,1557
+hackingtool,ALL IN ONE Hacking Tool For Hackers,https://github.com/Z4nzu/hackingtool,4735,4735,430
+EfficientNet-PyTorch,A PyTorch implementation of EfficientNet,https://github.com/lukemelas/EfficientNet-PyTorch,4733,4733,911
+yolov5,YOLOv5 in PyTorch > ONNX > CoreML > iOS,https://github.com/ultralytics/yolov5,4726,4726,1307
+Awesome-CoreML-Models,Largest list of models for Core ML (for iOS 11+),https://github.com/likedan/Awesome-CoreML-Models,4724,4724,385
+pydub,Manipulate audio with a simple and easy high level interface,https://github.com/jiaaro/pydub,4711,4711,654
+cleverhans,"An adversarial example library for constructing attacks, building defenses, and benchmarking both",https://github.com/tensorflow/cleverhans,4707,4707,1169
+detr,End-to-End Object Detection with Transformers,https://github.com/facebookresearch/detr,4690,4690,603
+lbry-sdk,"The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.",https://github.com/lbryio/lbry-sdk,4687,4687,374
+WechatSogou,åºäºæçå¾®ä¿¡æç´¢çå¾®ä¿¡å¬ä¼å·ç¬è«æ¥å£,https://github.com/chyroc/WechatSogou,4686,4686,1474
+imbalanced-learn, A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning,https://github.com/scikit-learn-contrib/imbalanced-learn,4681,4681,1016
+stargan,StarGAN - Official PyTorch Implementation (CVPR 2018),https://github.com/yunjey/stargan,4656,4656,860
+scrapy-redis,Redis-based components for Scrapy.,https://github.com/rmax/scrapy-redis,4653,4653,1478
+OctoPrint,OctoPrint is the snappy web interface for your 3D printer!,https://github.com/OctoPrint/OctoPrint,4646,4646,1286
+googler,:mag: Google from the terminal,https://github.com/jarun/googler,4645,4645,407
+stanza,Official Stanford NLP Python Library for Many Human Languages,https://github.com/stanfordnlp/stanza,4618,4618,593
+hypothesis,"Hypothesis is a powerful, flexible, and easy to use library for property-based testing.",https://github.com/HypothesisWorks/hypothesis,4609,4609,427
+setup.py,ð¦ A Human's Ultimate Guide to setup.py.,https://github.com/navdeep-G/setup.py,4602,4602,464
+DeepPavlov,An open source library for deep learning end-to-end dialog systems and chatbots.,https://github.com/deepmipt/DeepPavlov,4595,4595,829
+pytorch-image-models,"PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more",https://github.com/rwightman/pytorch-image-models,4587,4587,645
+backtrader,Python Backtesting library for trading strategies,https://github.com/mementum/backtrader,4579,4579,1470
+DeepLearningExamples,Deep Learning Examples,https://github.com/NVIDIA/DeepLearningExamples,4572,4572,1314
+dumb-init,A minimal init system for Linux containers,https://github.com/Yelp/dumb-init,4570,4570,265
+saws,A supercharged AWS command line interface (CLI).,https://github.com/donnemartin/saws,4569,4569,247
+learn_python3_spider,pythonç¬è«æç¨ç³»åãä»0å°1å­¦ä¹ pythonç¬è«ï¼åæ¬æµè§å¨æåï¼ææºAPPæåï¼å¦ fiddlerãmitmproxyï¼åç§ç¬è«æ¶åçæ¨¡åçä½¿ç¨ï¼å¦ï¼requestsãbeautifulSoupãseleniumãappiumãscrapyç­ï¼ä»¥åIPä»£çï¼éªè¯ç è¯å«ï¼Mysqlï¼MongoDBæ°æ®åºçpythonä½¿ç¨ï¼å¤çº¿ç¨å¤è¿ç¨ç¬è«çä½¿ç¨ï¼css ç¬è«å å¯éåç ´è§£ï¼JSç¬è«éåï¼åå¸å¼ç¬è«ï¼ç¬è«é¡¹ç®å®æå®ä¾ç­,https://github.com/wistbean/learn_python3_spider,4565,4565,1373
+tensorflow_practice,tensorflowå®æç»ä¹ ï¼åæ¬å¼ºåå­¦ä¹ ãæ¨èç³»ç»ãnlpç­,https://github.com/princewen/tensorflow_practice,4563,4563,2612
+graph_nets,Build Graph Nets in Tensorflow,https://github.com/deepmind/graph_nets,4552,4552,678
+jedi,"Awesome autocompletion, static analysis and refactoring library for python",https://github.com/davidhalter/jedi,4551,4551,410
+haipproxy,":sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis",https://github.com/SpiderClub/haipproxy,4547,4547,843
+channels,Developer-friendly asynchrony for Django,https://github.com/django/channels,4545,4545,624
+seq2seq-couplet,Play couplet with seq2seq model. ç¨æ·±åº¦å­¦ä¹ å¯¹å¯¹èã,https://github.com/wb14123/seq2seq-couplet,4544,4544,917
+pyston,An open-source Python implementation using JIT techniques. ,https://github.com/pyston/pyston,4539,4539,304
+django-oscar,Domain-driven e-commerce for Django,https://github.com/django-oscar/django-oscar,4538,4538,1695
+CenterNet,"Object detection, 3D detection, and pose estimation using center point detection: ",https://github.com/xingyizhou/CenterNet,4534,4534,1276
+mycroft-core,"Mycroft Core, the Mycroft Artificial Intelligence platform. ",https://github.com/MycroftAI/mycroft-core,4530,4530,1003
+package_control,The Sublime Text package manager,https://github.com/wbond/package_control,4520,4520,833
+noteshrink,"Convert scans of handwritten notes to beautiful, compact PDFs",https://github.com/mzucker/noteshrink,4517,4517,327
+TensorFlow-World,:earth_americas: Simple and ready-to-use tutorials for TensorFlow,https://github.com/astorfi/TensorFlow-World,4499,4499,426
+starlette,The little ASGI framework that shines. ð,https://github.com/encode/starlette,4498,4498,358
+pytorch-cnn-visualizations,Pytorch implementation of convolutional neural network visualization techniques,https://github.com/utkuozbulak/pytorch-cnn-visualizations,4497,4497,951
+rtv,Browse Reddit from your terminal,https://github.com/michael-lazar/rtv,4489,4489,259
+angr,A powerful and user-friendly binary analysis platform!,https://github.com/angr/angr,4484,4484,757
+apex,A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch,https://github.com/NVIDIA/apex,4465,4465,596
+pip-tools,A set of tools to keep your pinned Python dependencies fresh.,https://github.com/jazzband/pip-tools,4459,4459,392
+iOS-DeviceSupport,"This repository holds the device support files for the iOS, and I will update it regularly.",https://github.com/iGhibli/iOS-DeviceSupport,4457,4457,693
+english-words,:memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion,https://github.com/dwyl/english-words,4453,4453,975
+xadmin,"Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.",https://github.com/sshwsfc/xadmin,4450,4450,1372
+PathPicker,"PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.",https://github.com/facebook/PathPicker,4450,4450,274
+flashtext,Extract Keywords from sentence or Replace keywords in sentences.,https://github.com/vi3k6i5/flashtext,4446,4446,514
+BayesianOptimization,A Python implementation of global optimization with gaussian processes.,https://github.com/fmfn/BayesianOptimization,4442,4442,993
+cupy,NumPy-like API accelerated with CUDA,https://github.com/cupy/cupy,4441,4441,402
+PySimpleGUI,"Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .",https://github.com/PySimpleGUI/PySimpleGUI,4439,4439,688
+ipv6-hosts,"Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation",https://github.com/lennylxx/ipv6-hosts,4435,4435,1100
+python-docs-samples,Code samples used on cloud.google.com,https://github.com/GoogleCloudPlatform/python-docs-samples,4435,4435,4533
+knowledge-repo,A next-generation curated knowledge sharing platform for data scientists and other technical professions.,https://github.com/airbnb/knowledge-repo,4434,4434,603
+weibospider,":zap: A distributed crawler for weibo, building with celery and requests.",https://github.com/SpiderClub/weibospider,4432,4432,1245
+buildbot,Python-based continuous integration testing framework; your pull requests are more than welcome!,https://github.com/buildbot/buildbot,4431,4431,1489
+acme-tiny,A tiny script to issue and renew TLS certs from Let's Encrypt,https://github.com/diafygi/acme-tiny,4425,4425,536
+lihang_book_algorithm,è´åäºå°æèªåå£«ãç»è®¡å­¦ä¹ æ¹æ³ãä¸ä¹¦ä¸­ææç®æ³å®ç°ä¸é,https://github.com/WenDesi/lihang_book_algorithm,4415,4415,1721
+jrnl,Collect your thoughts and notes without leaving the command line.,https://github.com/jrnl-org/jrnl,4415,4415,410
+OpenNMT-py,Open Source Neural Machine Translation in PyTorch,https://github.com/OpenNMT/OpenNMT-py,4411,4411,1649
+httpstat,curl statistics made simple,https://github.com/reorx/httpstat,4407,4407,290
+flower,Real-time monitor and web admin for Celery distributed task queue,https://github.com/mher/flower,4401,4401,767
+awesome-honeypots,an awesome list of honeypot resources,https://github.com/paralax/awesome-honeypots,4389,4389,834
+jasper-client,Client code for Jasper voice computing platform,https://github.com/jasperproject/jasper-client,4388,4388,1051
+asyncpg,A fast PostgreSQL Database Client Library for Python/asyncio.,https://github.com/MagicStack/asyncpg,4384,4384,245
+flask-admin,Simple and extensible administrative interface framework for Flask,https://github.com/flask-admin/flask-admin,4376,4376,1260
+3d-photo-inpainting,[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting,https://github.com/vt-vl-lab/3d-photo-inpainting,4371,4371,595
+Stream-Framework,"Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology:",https://github.com/tschellenbach/Stream-Framework,4365,4365,545
+dirsearch,Web path scanner,https://github.com/maurosoria/dirsearch,4361,4361,1154
+hue,Open source SQL Query Assistant for Databases/Warehouses,https://github.com/cloudera/hue,4353,4353,1642
+Minecraft,Simple Minecraft-inspired program using Python and Pyglet,https://github.com/fogleman/Minecraft,4350,4350,1001
+pdfminer,Python PDF Parser (Not actively maintained). Check out pdfminer.six.,https://github.com/euske/pdfminer,4340,4340,1011
+csvkit,"A suite of utilities for converting to and working with CSV, the king of tabular file formats.",https://github.com/wireservice/csvkit,4339,4339,534
+Surprise,A Python scikit for building and analyzing recommender systems,https://github.com/NicolasHug/Surprise,4336,4336,796
+platformio-core,PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in!,https://github.com/platformio/platformio-core,4334,4334,544
+persepolis,Persepolis Download Manager is a GUI for aria2.,https://github.com/persepolisdm/persepolis,4327,4327,509
+clusterfuzz,Scalable fuzzing infrastructure.,https://github.com/google/clusterfuzz,4312,4312,387
+bips,Bitcoin Improvement Proposals,https://github.com/bitcoin/bips,4310,4310,2670
+tiler,ð· Build images with images,https://github.com/nuno-faria/tiler,4303,4303,244
+sketch-code,Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.,https://github.com/ashnkumar/sketch-code,4302,4302,571
+AlphaPose,Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System,https://github.com/MVIG-SJTU/AlphaPose,4286,4286,1176
+watchdog,Python library and shell utilities to monitor filesystem events.,https://github.com/gorakhargosh/watchdog,4284,4284,519
+attention-is-all-you-need-pytorch,"A PyTorch implementation of the Transformer model in ""Attention is All You Need"".",https://github.com/jadore801120/attention-is-all-you-need-pytorch,4274,4274,1112
+easytrader,"æä¾åè±é¡ºå®¢æ·ç«¯/å½é/åæ³°å®¢æ·ç«¯/éªççåºéãè¡ç¥¨èªå¨ç¨åºåäº¤æä»¥åèªå¨ææ°ï¼æ¯æè·è¸ª joinquant /ricequant æ¨¡æäº¤æ å å®çéªçç»å, éåäº¤æç»ä»¶",https://github.com/shidenggui/easytrader,4273,4273,1802
+conan,Conan - The open-source C/C++ package manager,https://github.com/conan-io/conan,4259,4259,554
+troposphere,troposphere - Python library to create AWS CloudFormation descriptions,https://github.com/cloudtools/troposphere,4250,4250,1292
+augmented-traffic-control,Augmented Traffic Control: A tool to simulate network conditions,https://github.com/facebookarchive/augmented-traffic-control,4243,4243,595
+face-alignment,:fire: 2D and 3D Face alignment library build using pytorch ,https://github.com/1adrianb/face-alignment,4233,4233,948
+spotify-downloader,Download Spotify playlists from YouTube with albumart and metadata,https://github.com/ritiek/spotify-downloader,4232,4232,572
+pyautogui,A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.,https://github.com/asweigart/pyautogui,4232,4232,588
+example-code,Example code for the book Fluent Python,https://github.com/fluentpython/example-code,4225,4225,1701
+pidcat,Colored logcat script which only shows log entries for a specific application package.,https://github.com/JakeWharton/pidcat,4224,4224,456
+commonmark-spec,"CommonMark spec, with reference implementations in C and JavaScript",https://github.com/commonmark/commonmark-spec,4217,4217,271
+peda,PEDA - Python Exploit Development Assistance for GDB,https://github.com/longld/peda,4198,4198,695
+AutoSploit,Automated Mass Exploiter,https://github.com/NullArray/AutoSploit,4196,4196,1081
+theHarvester,"E-mails, subdomains and names Harvester - OSINT ",https://github.com/laramies/theHarvester,4184,4184,1120
+snorkel,A system for quickly generating training data with weak supervision,https://github.com/snorkel-team/snorkel,4171,4171,690
+gluon-cv,Gluon CV Toolkit,https://github.com/dmlc/gluon-cv,4170,4170,970
+python_koans,Python Koans - Learn Python through TDD,https://github.com/gregmalcolm/python_koans,4167,4167,2475
+pycodestyle,Simple Python style checker in one Python file,https://github.com/PyCQA/pycodestyle,4140,4140,576
+pyodide,"The Python scientific stack, compiled to WebAssembly",https://github.com/iodide-project/pyodide,4140,4140,271
+ffmpeg-python,Python bindings for FFmpeg - with complex filtering support,https://github.com/kkroening/ffmpeg-python,4139,4139,417
+serenata-de-amor,ðµ Artificial Intelligence for social control of public administration,https://github.com/okfn-brasil/serenata-de-amor,4137,4137,693
+Airtest,UI Automation Framework for Games and Apps,https://github.com/AirtestProject/Airtest,4134,4134,717
+mezzanine,CMS framework for Django,https://github.com/stephenmcd/mezzanine,4121,4121,1495
+multi-v2ray,v2rayå¤ç¨æ·ç®¡çé¨ç½²ç¨åº,https://github.com/Jrohy/multi-v2ray,4119,4119,1707
+umap,Uniform Manifold Approximation and Projection,https://github.com/lmcinnes/umap,4106,4106,431
+electrum,Electrum Bitcoin Wallet,https://github.com/spesmilo/electrum,4106,4106,2132
+huxley,A testing system for catching visual regressions in Web applications.,https://github.com/facebookarchive/huxley,4103,4103,304
+isso,a Disqus alternative,https://github.com/posativ/isso,4096,4096,371
+xmltodict,Python module that makes working with XML feel like you are working with JSON,https://github.com/martinblech/xmltodict,4079,4079,392
+cvat,Powerful and efficient Computer Vision Annotation Tool (CVAT),https://github.com/opencv/cvat,4078,4078,1090
+pydantic,Data parsing and validation using Python type hints,https://github.com/samuelcolvin/pydantic,4074,4074,364
+pendulum,Python datetimes made easy,https://github.com/sdispater/pendulum,4067,4067,227
+onionshare,"Securely and anonymously share files, host websites, and chat with friends using the Tor network",https://github.com/micahflee/onionshare,4045,4045,492
+QUANTAXIS,QUANTAXIS æ¯æä»»å¡è°åº¦ åå¸å¼é¨ç½²ç è¡ç¥¨/æè´§/ææ/æ¸¯è¡/èæè´§å¸  æ°æ®/åæµ/æ¨¡æ/äº¤æ/å¯è§å/å¤è´¦æ· çº¯æ¬å°éåè§£å³æ¹æ¡,https://github.com/QUANTAXIS/QUANTAXIS,4041,4041,1705
+pygorithm,A Python module for learning all major algorithms,https://github.com/OmkarPathak/pygorithm,4035,4035,474
+uds,Unlimited Drive Storage by splitting binary files into base64,https://github.com/stewartmcgown/uds,4028,4028,259
+security_monkey,"Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.",https://github.com/Netflix/security_monkey,4027,4027,781
+instagram-scraper,Scrapes an instagram user's photos and videos,https://github.com/arc298/instagram-scraper,4025,4025,906
+google-api-python-client,ð The official Python client library for Google's discovery based APIs.,https://github.com/googleapis/google-api-python-client,4024,4024,1702
+DataSciencePython,common data analysis and machine learning tasks using python,https://github.com/ujjwalkarn/DataSciencePython,4013,4013,1303
+textgenrnn,Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.,https://github.com/minimaxir/textgenrnn,4010,4010,632
+CrackMapExec,A swiss army knife for pentesting networks,https://github.com/byt3bl33d3r/CrackMapExec,4007,4007,971
+twisted,Event-driven networking engine written in Python.,https://github.com/twisted/twisted,4005,4005,979
+PRNet,Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network (ECCV 2018),https://github.com/YadiraF/PRNet,4004,4004,822
+learning-to-learn,Learning to Learn in TensorFlow,https://github.com/deepmind/learning-to-learn,3995,3995,601
+kinto,A generic JSON document store with sharing and synchronisation capabilities.,https://github.com/Kinto/kinto,3992,3992,382
+Deep-Learning-21-Examples,ã21ä¸ªé¡¹ç®ç©è½¬æ·±åº¦å­¦ä¹ âââåºäºTensorFlowçå®è·µè¯¦è§£ãéå¥ä»£ç ,https://github.com/hzy46/Deep-Learning-21-Examples,3989,3989,1709
+kafka-python,Python client for Apache Kafka,https://github.com/dpkp/kafka-python,3987,3987,1086
+ta-lib,Python wrapper for TA-Lib (http://ta-lib.org/).,https://github.com/mrjbq7/ta-lib,3985,3985,902
+django-crispy-forms,The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.,https://github.com/django-crispy-forms/django-crispy-forms,3967,3967,669
+discover-flask,Full Stack Web Development with Flask.,https://github.com/realpython/discover-flask,3960,3960,698
+arxiv-sanity-preserver,"Web interface for browsing, search and filtering recent arxiv submissions",https://github.com/karpathy/arxiv-sanity-preserver,3958,3958,1168
+keras-retinanet,Keras implementation of RetinaNet object detection.,https://github.com/fizyr/keras-retinanet,3940,3940,1805
+st2,"StackStorm (aka ""IFTTT for Ops"") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.",https://github.com/StackStorm/st2,3938,3938,515
+DeepLearningTutorials,Deep Learning Tutorial notes and code. See the wiki for more info.,https://github.com/lisa-lab/DeepLearningTutorials,3930,3930,2149
+scikit-image,Image processing in Python,https://github.com/scikit-image/scikit-image,3922,3922,1643
+Telethon,"Pure Python 3 MTProto API Telegram client library, for bots too!",https://github.com/LonamiWebs/Telethon,3919,3919,590
+research,"dataset and code for 2016 paper ""Learning a Driving Simulator""",https://github.com/commaai/research,3912,3912,1157
+volatility,An advanced memory forensics framework,https://github.com/volatilityfoundation/volatility,3911,3911,838
+moto,A library that allows you to easily mock out tests based on AWS infrastructure.,https://github.com/spulec/moto,3896,3896,1208
+Yet-Another-EfficientDet-Pytorch,The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.,https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch,3896,3896,945
+ssd.pytorch,A PyTorch Implementation of Single Shot MultiBox Detector,https://github.com/amdegroot/ssd.pytorch,3893,3893,1472
+GitGutter,A Sublime Text 2/3 plugin to see git diff in gutter,https://github.com/jisaacks/GitGutter,3881,3881,231
+rqalpha,"A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities",https://github.com/ricequant/rqalpha,3874,3874,1346
+buku,:bookmark: Browser-independent bookmark manager,https://github.com/jarun/buku,3873,3873,217
+Flask-SocketIO,Socket.IO integration for Flask applications.,https://github.com/miguelgrinberg/Flask-SocketIO,3872,3872,723
+dataset,"Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.",https://github.com/pudo/dataset,3870,3870,248
+librosa,Python library for audio and music analysis,https://github.com/librosa/librosa,3864,3864,645
+microk8s,"MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.",https://github.com/ubuntu/microk8s,3864,3864,372
+MachineLearning,Basic Machine Learning and Deep Learning,https://github.com/wepe/MachineLearning,3861,3861,2820
+DrQA,Reading Wikipedia to Answer Open-Domain Questions,https://github.com/facebookresearch/DrQA,3856,3856,824
+rockstar,Makes you a Rockstar C++ Programmer in 2 minutes,https://github.com/avinassh/rockstar,3856,3856,284
+DeepLearning.ai-Summary,This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.,https://github.com/mbadry1/DeepLearning.ai-Summary,3855,3855,2108
+DeepCTR,"Easy-to-use,Modular and Extendible package of deep-learning based CTR models for search and recommendation.",https://github.com/shenweichen/DeepCTR,3852,3852,1216
+shadowbroker,"The Shadow Brokers ""Lost In Translation"" leak ",https://github.com/misterch0c/shadowbroker,3849,3849,390
+neon,IntelÂ® Nervanaâ¢ reference deep learning framework committed to best performance on all hardware,https://github.com/NervanaSystems/neon,3846,3846,841
+deep-learning-roadmap,:satellite: All You Need to Know About Deep Learning - A kick-starter,https://github.com/instillai/deep-learning-roadmap,3843,3843,602
+Tensorflow-Tutorial,Tensorflow tutorial from basic to hard,https://github.com/MorvanZhou/Tensorflow-Tutorial,3835,3835,1831
+dataset,The Open Images dataset,https://github.com/openimages/dataset,3833,3833,575
+xonsh,"Python-powered, cross-platform, Unix-gazing shell",https://github.com/xonsh/xonsh,3830,3830,426
+pywonderland,A tour in the wonderland of math with python.,https://github.com/neozhaoliang/pywonderland,3824,3824,343
+redis-rdb-tools,"Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON",https://github.com/sripathikrishnan/redis-rdb-tools,3821,3821,584
+awesome-math,A curated list of awesome mathematics resources,https://github.com/rossant/awesome-math,3821,3821,586
+deap,Distributed Evolutionary Algorithms in Python,https://github.com/DEAP/deap,3816,3816,802
+brython,Brython (Browser Python) is an implementation of Python 3 running in the browser,https://github.com/brython-dev/brython,3814,3814,358
+mmf,A modular framework for vision & language multimodal research from Facebook AI Research (FAIR),https://github.com/facebookresearch/mmf,3810,3810,532
+IPProxyPool,IPProxyPoolä»£çæ± é¡¹ç®ï¼æä¾ä»£çip,https://github.com/qiyeboy/IPProxyPool,3810,3810,1264
+Eel,A little Python library for making simple Electron-like HTML/JS GUI apps,https://github.com/samuelhwilliams/Eel,3805,3805,360
+jupytext,"Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",https://github.com/mwouts/jupytext,3801,3801,235
+WeasyPrint,"WeasyPrint converts web documents (HTML with CSS, SVG, â¦) to PDF.",https://github.com/Kozea/WeasyPrint,3793,3793,428
+django-cors-headers,Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS),https://github.com/adamchainz/django-cors-headers,3793,3793,446
+dl-docker,"An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)",https://github.com/floydhub/dl-docker,3788,3788,825
+conda,"OS-agnostic, system-level binary package manager and ecosystem",https://github.com/conda/conda,3787,3787,950
+lutris,Lutris client - Open Source gaming platform for GNU/Linux,https://github.com/lutris/lutris,3787,3787,351
+datasette,An open source multi-tool for exploring and publishing data,https://github.com/simonw/datasette,3786,3786,206
+DAIN,Depth-Aware Video Frame Interpolation (CVPR 2019),https://github.com/baowenbo/DAIN,3778,3778,443
+AidLearning-FrameWork,"ð¥ð¥AidLearning builds a linux environment supporting GUI, deep learning and visual programming on Android devices. Now  support VSCode,Jupyter, pyToApk! One-click install.ð",https://github.com/aidlearning/AidLearning-FrameWork,3766,3766,588
+livestreamer,"Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.",https://github.com/chrippa/livestreamer,3763,3763,610
+tablib,"Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.",https://github.com/jazzband/tablib,3761,3761,546
+Lasagne,Lightweight library to build and train neural networks in Theano,https://github.com/Lasagne/Lasagne,3744,3744,978
+cookiecutter-data-science,"A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.",https://github.com/drivendata/cookiecutter-data-science,3741,3741,1247
+ptpython,A better Python REPL,https://github.com/prompt-toolkit/ptpython,3739,3739,207
+CouchPotatoServer,Automatic Movie Downloading via NZBs & Torrents,https://github.com/CouchPotato/CouchPotatoServer,3729,3729,1312
+PyGithub,Typed interactions with the GitHub API v3,https://github.com/PyGithub/PyGithub,3729,3729,1189
+sklearn-doc-zh,:book: [è¯] scikit-learnï¼sklearnï¼ ä¸­æææ¡£,https://github.com/apachecn/sklearn-doc-zh,3727,3727,1221
+CapsNet-Tensorflow,A Tensorflow implementation of CapsNet(Capsules Net) in paper Dynamic Routing Between Capsules,https://github.com/naturomics/CapsNet-Tensorflow,3717,3717,1197
+WeRoBot,WeRoBot æ¯ä¸ä¸ªå¾®ä¿¡å¬ä¼å·å¼åæ¡æ¶,https://github.com/offu/WeRoBot,3711,3711,927
+awesome-graph-classification,"A collection of important graph embedding, classification and representation learning papers with implementations.",https://github.com/benedekrozemberczki/awesome-graph-classification,3708,3708,612
+Lihang,"Statistical learning methods, ç»è®¡å­¦ä¹ æ¹æ³(ç¬¬2ç)[æèª]  [ç¬è®°, ä»£ç , notebook, åèæç®, Errata, lihang]",https://github.com/SmirkCao/Lihang,3706,3706,1181
+Chinese-BERT-wwm,Pre-Training with Whole Word Masking for Chinese BERTï¼ä¸­æBERT-wwmç³»åæ¨¡åï¼,https://github.com/ymcui/Chinese-BERT-wwm,3704,3704,656
+pytorch-examples,Simple examples to introduce PyTorch,https://github.com/jcjohnson/pytorch-examples,3695,3695,822
+maltrail,Malicious traffic detection system,https://github.com/stamparm/maltrail,3692,3692,703
+BERT-pytorch,Google AI 2018 BERT pytorch implementation,https://github.com/codertimo/BERT-pytorch,3685,3685,831
+iGAN,Interactive Image Generation via Generative Adversarial Networks,https://github.com/junyanz/iGAN,3684,3684,581
+tinydb,TinyDB is a lightweight document oriented database optimized for your happiness :),https://github.com/msiemens/tinydb,3679,3679,339
+django-tastypie,Creating delicious APIs for Django apps since 2010.,https://github.com/django-tastypie/django-tastypie,3675,3675,1155
+virtualenv,Virtual Python Environment builder,https://github.com/pypa/virtualenv,3664,3664,858
+igbot,"ð Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!",https://github.com/ohld/igbot,3662,3662,1176
+pytorch3d,PyTorch3D is FAIR's library of reusable components for deep learning with 3D data,https://github.com/facebookresearch/pytorch3d,3648,3648,390
+openstack,Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.,https://github.com/openstack/openstack,3645,3645,1458
+tensorflow-generative-model-collections,Collection of generative models in Tensorflow,https://github.com/hwalsuklee/tensorflow-generative-model-collections,3642,3642,851
+calibre-web,":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database",https://github.com/janeczku/calibre-web,3640,3640,556
+PokemonGo-Bot,"The Pokemon Go Bot, baking with community.",https://github.com/PokemonGoF/PokemonGo-Bot,3634,3634,1582
+awslogs,AWS CloudWatch logs for Humansâ¢,https://github.com/jorgebastida/awslogs,3630,3630,267
+nameko,Python framework for building microservices,https://github.com/nameko/nameko,3623,3623,357
+qqbot,QQBot: A conversation robot base on Tencent's SmartQQ,https://github.com/pandolia/qqbot,3600,3600,921
+hy,A dialect of Lisp that's embedded in Python,https://github.com/hylang/hy,3588,3588,322
+usbkill,Â« usbkill Â» is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.,https://github.com/hephaest0s/usbkill,3581,3581,474
+grr,GRR Rapid Response: remote live forensics for incident response,https://github.com/google/grr,3580,3580,651
+deep-visualization-toolbox,DeepVis Toolbox,https://github.com/yosinski/deep-visualization-toolbox,3580,3580,911
+RxPY,"Reactive Extensions for Python, https://rxpy.rtfd.io",https://github.com/ReactiveX/RxPY,3576,3576,291
+ERNIE,An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools),https://github.com/PaddlePaddle/ERNIE,3570,3570,844
+ggpy,ggplot port for python,https://github.com/yhat/ggpy,3568,3568,580
+pyod,A Python Toolbox for Scalable Outlier Detection (Anomaly Detection),https://github.com/yzhao062/pyod,3568,3568,729
+TensorFlowOnSpark,TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.,https://github.com/yahoo/TensorFlowOnSpark,3563,3563,918
+papermill,"ð Parameterize, execute, and analyze notebooks",https://github.com/nteract/papermill,3557,3557,276
+diff-match-patch,Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.,https://github.com/google/diff-match-patch,3546,3546,634
+autopep8,A tool that automatically formats Python code to conform to the PEP 8 style guide.,https://github.com/hhatto/autopep8,3542,3542,223
+MechanicalSoup,A Python library for automating interaction with websites.,https://github.com/MechanicalSoup/MechanicalSoup,3540,3540,315
+colornet,Neural Network to colorize grayscale images,https://github.com/pavelgonchar/colornet,3535,3535,326
+doccano,Open source text annotation tool for machine learning practitioner.,https://github.com/doccano/doccano,3530,3530,768
+metaflow,Build and manage real-life data science projects with ease.,https://github.com/Netflix/metaflow,3526,3526,284
+roboto,The Roboto family of fonts,https://github.com/googlefonts/roboto,3525,3525,313
+tf-pose-estimation,Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.,https://github.com/ildoonet/tf-pose-estimation,3520,3520,1462
+Tautulli,A Python based monitoring and tracking tool for Plex Media Server.,https://github.com/Tautulli/Tautulli,3518,3518,518
+mininet,Emulator for rapid prototyping of Software Defined Networks,https://github.com/mininet/mininet,3518,3518,1408
+pulse,PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models,https://github.com/adamian98/pulse,3517,3517,742
+documentation,Official documentation for the Raspberry Pi,https://github.com/raspberrypi/documentation,3509,3509,1587
+responder,A familiar HTTP Service Framework for Python.,https://github.com/taoufik07/responder,3502,3502,210
+bigchaindb,Meet BigchainDB. The blockchain database.,https://github.com/bigchaindb/bigchaindb,3502,3502,725
+grequests,Requests + Gevent = <3,https://github.com/spyoungtech/grequests,3500,3500,309
+sync-engine,:incoming_envelope: IMAP/SMTP sync system with modern APIs,https://github.com/nylas/sync-engine,3500,3500,370
+cryptography,cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.,https://github.com/pyca/cryptography,3498,3498,756
+freqtrade,"Free, open source crypto trading bot",https://github.com/freqtrade/freqtrade,3493,3493,1112
+kaggle-api,Official Kaggle API,https://github.com/Kaggle/kaggle-api,3488,3488,723
+dnsmasq-china-list,Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.,https://github.com/felixonmars/dnsmasq-china-list,3483,3483,590
+sphinx,Main repository for the Sphinx documentation builder,https://github.com/sphinx-doc/sphinx,3475,3475,1339
+Background-Matting,Background Matting: The World is Your Green Screen,https://github.com/senguptaumd/Background-Matting,3475,3475,461
+robobrowser,,https://github.com/jmcarp/robobrowser,3475,3475,322
+line_profiler,(OLD REPO) Line-by-line profiling for Python - Current repo ->,https://github.com/rkern/line_profiler,3473,3473,243
+skorch,A scikit-learn compatible neural network library that wraps PyTorch,https://github.com/skorch-dev/skorch,3467,3467,259
+DeepNude-an-Image-to-Image-technology,"DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNudeçç®æ³ä»¥åéç¨çæå¯¹æç½ç»ï¼GAN,Generative Adversarial Networkï¼å¾åçæççè®ºä¸å®è·µç ç©¶ã",https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology,3456,3456,1507
+tf-faster-rcnn,Tensorflow Faster RCNN for Object Detection,https://github.com/endernewton/tf-faster-rcnn,3447,3447,1627
+image-analogies,Generate image analogies using neural matching and blending.,https://github.com/awentzonline/image-analogies,3439,3439,294
+curio,"Curio - ""It's the Sauce!""",https://github.com/dabeaz/curio,3436,3436,224
+speech-to-text-wavenet,Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow,https://github.com/buriburisuri/speech-to-text-wavenet,3434,3434,747
+pyramid,Pyramid - A Python web framework,https://github.com/Pylons/pyramid,3432,3432,862
+pytube,"A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",https://github.com/nficano/pytube,3432,3432,866
+patroni,"A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes",https://github.com/zalando/patroni,3432,3432,414
+pysot,"SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.",https://github.com/STVIR/pysot,3426,3426,911
+guake,Drop-down terminal for GNOME,https://github.com/Guake/guake,3426,3426,547
+cookiecutter-flask,"A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.",https://github.com/cookiecutter-flask/cookiecutter-flask,3425,3425,626
+semantic-segmentation-pytorch,Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset,https://github.com/CSAILVision/semantic-segmentation-pytorch,3419,3419,777
+pyjwt,JSON Web Token implementation in Python,https://github.com/jpadilla/pyjwt,3418,3418,445
+s3cmd,Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services,https://github.com/s3tools/s3cmd,3415,3415,794
+sqlalchemy,THIS IS NOT THE OFFICIAL REPO - PLEASE SUBMIT PRs ETC AT: http://github.com/sqlalchemy/sqlalchemy,https://github.com/zzzeek/sqlalchemy,3414,3414,892
+me_cleaner,Tool for partial deblobbing of Intel ME/TXE firmware images,https://github.com/corna/me_cleaner,3402,3402,217
+pyAudioAnalysis,"Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications",https://github.com/tyiannak/pyAudioAnalysis,3380,3380,907
+chineseocr,yolo3+ocr,https://github.com/chineseocr/chineseocr,3379,3379,1193
+monkey,Infection Monkey - An automated pentest tool,https://github.com/guardicore/monkey,3374,3374,458
+Cactus,Static site generator for designers. Uses Python and Django templates.,https://github.com/eudicots/Cactus,3353,3353,315
+udemy-dl,A cross-platform python based utility to download courses from udemy for personal offline use.,https://github.com/r0oth3x49/udemy-dl,3352,3352,824
+snips-nlu,Snips Python library to extract meaning from text,https://github.com/snipsco/snips-nlu,3349,3349,454
+ansible-for-devops,Ansible for DevOps examples.,https://github.com/geerlingguy/ansible-for-devops,3345,3345,1321
+pyTelegramBotAPI,Python Telegram bot api.,https://github.com/eternnoir/pyTelegramBotAPI,3341,3341,933
+connexion,Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support,https://github.com/zalando/connexion,3341,3341,571
+esptool,ESP8266 and ESP32 serial bootloader utility,https://github.com/espressif/esptool,3336,3336,885
+pygta5,Explorations of Using Python to play Grand Theft Auto 5.,https://github.com/Sentdex/pygta5,3332,3332,750
+OnlineJudge,"open source online judge based on Vue, Django and Docker. | éå²å¤§å­¦å¼æº Online Judge | QQç¾¤ 496710125 | admin@qduoj.com",https://github.com/QingdaoU/OnlineJudge,3332,3332,915
+samplemod,,https://github.com/navdeep-G/samplemod,3331,3331,1168
+lektor,The lektor static file content management system,https://github.com/lektor/lektor,3330,3330,268
+tribler,Privacy enhanced BitTorrent client with P2P content discovery,https://github.com/Tribler/tribler,3327,3327,386
+PyTorchZeroToAll,Simple PyTorch Tutorials Zero to ALL!,https://github.com/hunkim/PyTorchZeroToAll,3324,3324,1104
+pyppeteer,Headless chrome/chromium automation library (unofficial port of puppeteer),https://github.com/miyakogi/pyppeteer,3320,3320,351
+python-dotenv,Get and set values in your .env file in local and production servers. :tada:,https://github.com/theskumar/python-dotenv,3318,3318,202
+ptf,The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.,https://github.com/trustedsec/ptf,3308,3308,961
+w3af,"w3af: web application attack and audit framework, the open source web vulnerability scanner.",https://github.com/andresriancho/w3af,3302,3302,1017
+s2client-proto,StarCraft II Client - protocol definitions used to communicate with StarCraft II.,https://github.com/Blizzard/s2client-proto,3300,3300,387
+gmvault,gmail backup software,https://github.com/gaubert/gmvault,3293,3293,254
+ASRT_SpeechRecognition,A Deep-Learning-Based Chinese Speech Recognition System åºäºæ·±åº¦å­¦ä¹ çä¸­æè¯­é³è¯å«ç³»ç»,https://github.com/nl8590687/ASRT_SpeechRecognition,3292,3292,1089
+PyPDF2,A utility to read and write PDFs with Python,https://github.com/mstamy2/PyPDF2,3286,3286,853
+Responder,"Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",https://github.com/SpiderLabs/Responder,3282,3282,1137
+Nuitka,"Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, and 3.8.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. ",https://github.com/Nuitka/Nuitka,3282,3282,227
+flocker,Container data volume manager for your Dockerized application,https://github.com/ClusterHQ/flocker,3277,3277,298
+lightfm,"A Python implementation of LightFM, a hybrid recommendation algorithm.",https://github.com/lyst/lightfm,3276,3276,543
+Tensorflow-Project-Template,A best practice for tensorflow project template architecture. ,https://github.com/MrGemy95/Tensorflow-Project-Template,3271,3271,755
+deep-voice-conversion,Deep neural networks for voice conversion (voice style transfer) in Tensorflow,https://github.com/andabi/deep-voice-conversion,3271,3271,744
+rebound,Command-line tool that instantly fetches Stack Overflow results when an exception is thrown,https://github.com/shobrook/rebound,3266,3266,290
+imutils,"A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.",https://github.com/jrosebr1/imutils,3263,3263,812
+flask-sqlalchemy,Adds SQLAlchemy support to Flask,https://github.com/pallets/flask-sqlalchemy,3253,3253,791
+Deformable-ConvNets,Deformable Convolutional Networks,https://github.com/msracver/Deformable-ConvNets,3251,3251,894
+isort,A Python utility / library to sort imports.,https://github.com/PyCQA/isort,3250,3250,335
+LSTM-Neural-Network-for-Time-Series-Prediction,LSTM built using Keras Python package to predict time series steps and sequences. Includes sin wave and stock market data,https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction,3249,3249,1484
+mongoengine,A Python Object-Document-Mapper for working with MongoDB,https://github.com/MongoEngine/mongoengine,3248,3248,1108
+cowrie,Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io,https://github.com/cowrie/cowrie,3245,3245,612
+whereami,Uses WiFi signals :signal_strength: and machine learning to predict where you are ,https://github.com/kootenpv/whereami,3238,3238,224
+dcgan_code,Deep Convolutional Generative Adversarial Networks,https://github.com/Newmu/dcgan_code,3236,3236,683
+DjangoBlog,ðºåºäºDjangoçåå®¢ç³»ç»,https://github.com/liangliangyy/DjangoBlog,3225,3225,1596
+microblog,A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.,https://github.com/miguelgrinberg/microblog,3224,3224,1156
+MachineLearning_Python,æºå¨å­¦ä¹ ç®æ³pythonå®ç°,https://github.com/lawlite19/MachineLearning_Python,3222,3222,1551
+skflow,Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning,https://github.com/tensorflow/skflow,3217,3217,468
+attrs,Python Classes Without Boilerplate,https://github.com/python-attrs/attrs,3204,3204,221
+distribute_crawler,"ä½¿ç¨scrapy,redis, mongodb,graphiteå®ç°çä¸ä¸ªåå¸å¼ç½ç»ç¬è«,åºå±å­å¨mongodbéç¾¤,åå¸å¼ä½¿ç¨rediså®ç°,ç¬è«ç¶ææ¾ç¤ºä½¿ç¨graphiteå®ç°",https://github.com/gnemoug/distribute_crawler,3202,3202,1631
+anomaly-detection-resources,"Anomaly detection related books, papers, videos, and toolboxes",https://github.com/yzhao062/anomaly-detection-resources,3195,3195,864
+transformer,A TensorFlow Implementation of the Transformer: Attention Is All You Need,https://github.com/Kyubyong/transformer,3185,3185,1101
+androguard,"Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)",https://github.com/androguard/androguard,3183,3183,809
+maya,Datetimes for Humansâ¢,https://github.com/timofurrer/maya,3176,3176,204
+rainbowstream,A smart and nice Twitter client on terminal written in Python.,https://github.com/orakaro/rainbowstream,3170,3170,260
+posthog,"ð¦ PostHog is developer-friendly, open-source product analytics.",https://github.com/PostHog/posthog,3169,3169,200
+MatchZoo,"Facilitating the design, comparison and sharing of deep text matching models.",https://github.com/NTMC-Community/MatchZoo,3166,3166,852
+PlainTasks,An opinionated todo-list plugin for Sublime Text editor (version 2 and 3),https://github.com/aziz/PlainTasks,3166,3166,298
+pytorch-cifar,95.16% on CIFAR10 with PyTorch,https://github.com/kuangliu/pytorch-cifar,3165,3165,1247
+instantbox,"Get a clean, ready-to-go Linux box in seconds.",https://github.com/instantbox/instantbox,3164,3164,209
+Python-crawler-tutorial-starts-from-zero,"pythonç¬è«æç¨ï¼å¸¦ä½ ä»é¶å°ä¸ï¼åå«jséåï¼selenium, tesseract OCRè¯å«,mongodbçä½¿ç¨ï¼ä»¥åscrapyæ¡æ¶",https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero,3161,3161,577
+FreePAC,ç§å­¦ä¸ç½/æ¢¯å­/èªç±ä¸ç½/ç¿»å¢ SS/SSR/V2Ray/Brook æ­å»ºæç¨ ,https://github.com/xiaoming2028/FreePAC,3159,3159,544
+text-classification-cnn-rnn,CNN-RNNä¸­æææ¬åç±»ï¼åºäºTensorFlow,https://github.com/gaussic/text-classification-cnn-rnn,3157,3157,1300
+sampleproject,"A sample project that exists for PyPUG's ""Tutorial on Packaging and Distributing Projects""",https://github.com/pypa/sampleproject,3157,3157,1184
+Synonyms,:herb: ä¸­æè¿ä¹è¯ï¼èå¤©æºå¨äººï¼æºè½é®ç­å·¥å·å,https://github.com/chatopera/Synonyms,3151,3151,664
+OUCML,,https://github.com/OUCMachineLearning/OUCML,3150,3150,933
+huey,a little task queue for python,https://github.com/coleifer/huey,3149,3149,281
+imagededup,ð Finding duplicate images made easy!,https://github.com/idealo/imagededup,3149,3149,250
+KnowledgeGraphData,å²ä¸æå¤§è§æ¨¡1.4äº¿ä¸­æç¥è¯å¾è°±å¼æºä¸è½½,https://github.com/ownthink/KnowledgeGraphData,3148,3148,529
+flan,A pretty sweet vulnerability scanner,https://github.com/cloudflare/flan,3145,3145,215
+tensorflow_poems,ä¸­æå¤è¯èªå¨ä½è¯æºå¨äººï¼å±ç¸å¤©ï¼åºäºtensorflow1.10 apiï¼æ­£å¨ç§¯æç»´æ¤åçº§ä¸­ï¼å¿«starï¼ä¿ææ´æ°ï¼,https://github.com/jinfagang/tensorflow_poems,3143,3143,872
+transitions,"A lightweight, object-oriented finite state machine implementation in Python with many extensions",https://github.com/pytransitions/transitions,3142,3142,395
+jukebox,"Code for the paper ""Jukebox: A Generative Model for Music""",https://github.com/openai/jukebox,3142,3142,388
+django-filter,A generic system for filtering Django QuerySets based on user selections,https://github.com/carltongibson/django-filter,3142,3142,621
+OCRmyPDF,"OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",https://github.com/jbarlow83/OCRmyPDF,3136,3136,369
+wal-e,Continuous Archiving for Postgres,https://github.com/wal-e/wal-e,3134,3134,307
+sublime-jsdocs,"Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++",https://github.com/spadgos/sublime-jsdocs,3134,3134,298
+yolact,"A simple, fully convolutional model for real-time instance segmentation.",https://github.com/dbolya/yolact,3132,3132,776
+cloud-custodian,"Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",https://github.com/cloud-custodian/cloud-custodian,3128,3128,902
+v2ex-gae,Legacy code of V2EX running on Google App Engine,https://github.com/livid/v2ex-gae,3126,3126,515
+fawkes,"Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes",https://github.com/Shawn-Shan/fawkes,3125,3125,309
+optuna,A hyperparameter optimization framework,https://github.com/optuna/optuna,3124,3124,353
+healthchecks,A Cron Monitoring Tool written in Python & Django,https://github.com/healthchecks/healthchecks,3121,3121,398
+pytesseract,A Python wrapper for Google Tesseract,https://github.com/madmaze/pytesseract,3112,3112,473
+telepresence,Local development against a remote Kubernetes or OpenShift cluster,https://github.com/telepresenceio/telepresence,3104,3104,219
+graphene-django,Integrate GraphQL into your Django project.,https://github.com/graphql-python/graphene-django,3099,3099,558
+mongo-python-driver,PyMongo - the Python driver for MongoDB,https://github.com/mongodb/mongo-python-driver,3097,3097,955
+mlxtend,A library of extension and helper modules for Python's data analysis and machine learning libraries.,https://github.com/rasbt/mlxtend,3095,3095,662
+gef,GEF - GDB Enhanced Features for exploit devs & reversers,https://github.com/hugsy/gef,3092,3092,451
+listen1,one for all free music in china (origin edition),https://github.com/listen1/listen1,3090,3090,322
+flask_jsondash,:snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.,https://github.com/christabor/flask_jsondash,3089,3089,277
+wifijammer,Continuously jam all wifi clients/routers,https://github.com/DanMcInerney/wifijammer,3086,3086,695
+intermediatePython,,https://github.com/yasoob/intermediatePython,3085,3085,631
+torchdiffeq,Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.,https://github.com/rtqichen/torchdiffeq,3081,3081,530
+splash,"Lightweight, scriptable browser as a service with an HTTP API",https://github.com/scrapinghub/splash,3080,3080,421
+wfuzz,Web application fuzzer,https://github.com/xmendez/wfuzz,3079,3079,776
+Deep-Learning-Roadmap,:satellite: Organized Resources for Deep Learning Researchers and Developers,https://github.com/astorfi/Deep-Learning-Roadmap,3079,3079,309
+osx-gcc-installer,GCC Installer for OSX! Without Xcode!,https://github.com/not-kennethreitz/osx-gcc-installer,3078,3078,222
+algorithm-exercise,Data Structure and Algorithm notes. æ°æ®ç»æä¸ç®æ³/leetcode/lintcodeé¢è§£/,https://github.com/billryan/algorithm-exercise,3064,3064,866
+mantl,Mantl is a modern platform for rapidly deploying globally distributed services,https://github.com/mantl/mantl,3063,3063,446
+nlp,"ð¤nlp â Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",https://github.com/huggingface/nlp,3062,3062,238
+sacred,"Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.",https://github.com/IDSIA/sacred,3048,3048,309
+toapi,Every web site provides APIs.,https://github.com/gaojiuli/toapi,3043,3043,214
+pifuhd,High-Resolution 3D Human Digitization from A Single Image.,https://github.com/facebookresearch/pifuhd,3043,3043,312
+data-scientist-roadmap,"Toturial coming with ""data science roadmap"" graphe.",https://github.com/MrMimic/data-scientist-roadmap,3042,3042,844
+kubernetes-workshop,âï¸ A Gentle introduction to Kubernetes with more than just the basics. ð Give it a star if you like it.,https://github.com/eon01/kubernetes-workshop,3042,3042,201
+coala,"coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.",https://github.com/coala/coala,3042,3042,1346
+SC-FEGAN,SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019),https://github.com/run-youngjoo/SC-FEGAN,3042,3042,487
+SinaSpider,æ°æµªå¾®åç¬è«ï¼ScrapyãRedisï¼,https://github.com/LiuXingMing/SinaSpider,3038,3038,1524
+tensorflow-yolov3,ð¥ Pure tensorflow Implement of YOLOv3 with support to train your own dataset ,https://github.com/YunYang1994/tensorflow-yolov3,3033,3033,1255
+BERT-BiLSTM-CRF-NER,Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning And private Server services,https://github.com/macanv/BERT-BiLSTM-CRF-NER,3032,3032,949
+django-haystack,Modular search for Django,https://github.com/django-haystack/django-haystack,3031,3031,1220
+MITMf,Framework for Man-In-The-Middle attacks,https://github.com/byt3bl33d3r/MITMf,3029,3029,975
+trfl,TensorFlow Reinforcement Learning,https://github.com/deepmind/trfl,3027,3027,365
+python-twitter,A Python wrapper around the Twitter API.,https://github.com/bear/python-twitter,3027,3027,931
+FastMaskRCNN,Mask RCNN in TensorFlow ,https://github.com/CharlesShang/FastMaskRCNN,3027,3027,1119
+seq2seq,Sequence to Sequence Learning with Keras,https://github.com/farizrahman4u/seq2seq,3021,3021,864
+scylla,Intelligent proxy pool for Humansâ¢ (Maintainer needed),https://github.com/imWildCat/scylla,3020,3020,372
+full-stack-fastapi-postgresql,"Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",https://github.com/tiangolo/full-stack-fastapi-postgresql,3019,3019,479
+ignite,High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.,https://github.com/pytorch/ignite,3015,3015,368
+uvicorn,The lightning-fast ASGI server. ð¦,https://github.com/encode/uvicorn,3011,3011,223
+Sick-Beard,PVR & episode guide that downloads and manages all your TV shows ,https://github.com/midgetspy/Sick-Beard,3005,3005,1690
+pwndbg,Exploit Development and Reverse Engineering with GDB Made Easy,https://github.com/pwndbg/pwndbg,3005,3005,461
+django-rest-framework-jwt,JSON Web Token Authentication support for Django REST Framework,https://github.com/jpadilla/django-rest-framework-jwt,3002,3002,544
+python,Official Python client library for kubernetes,https://github.com/kubernetes-client/python,2995,2995,1780
+Awesome-WAF,ð¥ Everything awesome about web-application firewalls (WAF).,https://github.com/0xInfection/Awesome-WAF,2993,2993,547
+mimesis,"Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.",https://github.com/lk-geimfari/mimesis,2992,2992,253
+pylint,It's not just a linter that annoys you!,https://github.com/PyCQA/pylint,2990,2990,621
+elasticsearch-dsl-py,High level Python client for Elasticsearch,https://github.com/elastic/elasticsearch-dsl-py,2990,2990,641
+pyalgotrade,Python Algorithmic Trading Library,https://github.com/gbeced/pyalgotrade,2989,2989,1155
+geopy,Geocoding library for Python.,https://github.com/geopy/geopy,2983,2983,509
+text-detection-ctpn,"text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network",https://github.com/eragonruan/text-detection-ctpn,2977,2977,1284
+yfinance,Yahoo! Finance market data downloader (+faster Pandas Datareader),https://github.com/ranaroussi/yfinance,2977,2977,766
+darts,Differentiable architecture search for convolutional and recurrent networks,https://github.com/quark0/darts,2975,2975,635
+iOS-Universal-Framework,"An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.",https://github.com/kstenerud/iOS-Universal-Framework,2971,2971,506
+learn_math_fast,"This is the Curriculum for ""How to Learn Mathematics Fast"" By Siraj Raval on Youtube",https://github.com/llSourcell/learn_math_fast,2970,2970,597
+invoke,Pythonic task management & command execution.,https://github.com/pyinvoke/invoke,2964,2964,262
+Flask-AppBuilder,"Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",https://github.com/dpgaspar/Flask-AppBuilder,2958,2958,923
+awesome-reactnative-ui,Awesome React Native UI components updated weekly,https://github.com/madhavanmalolan/awesome-reactnative-ui,2957,2957,290
+100-Days-of-ML-Code-Chinese-Version,Chinese Translation for Machine Learning Infographics,https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version,2952,2952,852
+P4wnP1,"P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.",https://github.com/RoganDawes/P4wnP1,2946,2946,575
+Blasting_dictionary,çç ´å­å¸,https://github.com/rootphantomer/Blasting_dictionary,2943,2943,2159
+headphones,Automatic music downloader for SABnzbd,https://github.com/rembo10/headphones,2941,2941,631
+ambassador,open source Kubernetes-native API gateway for microservices built on the Envoy Proxy,https://github.com/datawire/ambassador,2934,2934,446
